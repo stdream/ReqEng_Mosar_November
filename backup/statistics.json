@@ -1,0 +1,37 @@
+{
+  "nodes": {
+    "Section": 527,
+    "Chunk": 1659,
+    "Component": 298,
+    "Subsystem": 51,
+    "Interface": 37,
+    "SoftwareComponent": 0,
+    "Requirement": 220,
+    "Document": 4,
+    "Entity": 443,
+    "Scenario": 23,
+    "TestCase": 21,
+    "_Bloom_Scene_": 0,
+    "_Bloom_Perspective_": 0
+  },
+  "relationships": {
+    "HAS_SECTION": 527,
+    "HAS_CHUNK": 1659,
+    "NEXT_CHUNK": 1208,
+    "HAS_SUBSECTION": 301,
+    "COVERS": 53,
+    "MENTIONS_REQUIREMENT": 4832,
+    "MENTIONS": 5610,
+    "REQUIRES": 477,
+    "ALLOCATED_TO": 51,
+    "USED_IN_SCENARIOS": 44,
+    "VERIFIED_BY": 2,
+    "CONNECTS_TO": 199,
+    "PART_OF": 83,
+    "USES": 179
+  },
+  "totals": {
+    "nodes": 2853,
+    "relationships": 15225
+  }
+}
