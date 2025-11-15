@@ -18,6 +18,7 @@ class Settings(BaseSettings):
     NEO4J_URI: str
     NEO4J_USERNAME: str
     NEO4J_PASSWORD: str
+    NEO4J_DATABASE: str = "neo4j"
 
     # OpenAI Settings (for GraphRAG)
     OPENAI_API_KEY: Optional[str] = None
@@ -37,7 +38,7 @@ class Settings(BaseSettings):
     SIMILARITY_THRESHOLD: float = 0.75
 
     class Config:
-        env_file = "../.env"
+        env_file = "../../.env"
         case_sensitive = True
 
 

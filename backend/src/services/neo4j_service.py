@@ -98,8 +98,8 @@ class Neo4jService:
             [rel IN relationships | {{
                 id: toString(id(rel)),
                 type: type(rel),
-                startNode: toString(startNode(rel).id),
-                endNode: toString(endNode(rel).id),
+                startNode: toString(id(startNode(rel))),
+                endNode: toString(id(endNode(rel))),
                 properties: properties(rel)
             }}] as relationships
         """
@@ -109,9 +109,15 @@ class Neo4jService:
         if not results:
             return {"nodes": [], "relationships": []}
 
+        # Filter out relationships with None startNode or endNode
+        relationships = [
+            rel for rel in results[0].get("relationships", [])
+            if rel.get("startNode") is not None and rel.get("endNode") is not None
+        ]
+
         return {
             "nodes": results[0].get("nodes", []),
-            "relationships": results[0].get("relationships", [])
+            "relationships": relationships
         }
 
     def get_all_requirements(self, type: Optional[str] = None, limit: int = 100) -> List[Dict]:
@@ -221,8 +227,8 @@ class Neo4jService:
             [rel IN all_rels | {{
                 id: toString(id(rel)),
                 type: type(rel),
-                startNode: toString(startNode(rel).id),
-                endNode: toString(endNode(rel).id),
+                startNode: toString(id(startNode(rel))),
+                endNode: toString(id(endNode(rel))),
                 properties: properties(rel)
             }}] as relationships,
             {{
@@ -242,9 +248,15 @@ class Neo4jService:
                 "stats": {"components": 0, "tests": 0, "requirements": 0, "scenarios": 0}
             }
 
+        # Filter out relationships with None startNode or endNode
+        relationships = [
+            rel for rel in results[0].get("relationships", [])
+            if rel.get("startNode") is not None and rel.get("endNode") is not None
+        ]
+
         return {
             "nodes": results[0].get("nodes", []),
-            "relationships": results[0].get("relationships", []),
+            "relationships": relationships,
             "stats": results[0].get("stats", {})
         }
 
