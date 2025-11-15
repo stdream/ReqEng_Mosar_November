@@ -1,0 +1,6847 @@
+{
+  "components": [
+    {
+      "canonical_name": "WM Controller",
+      "full_name": "WM Controller",
+      "aliases": [
+        "WM Controller",
+        "WMC",
+        "WM controller",
+        "WM Control",
+        "WM Manager",
+        "WM Control SW",
+        "WM EE",
+        "WMcontroller",
+        "WMController",
+        "WM-A",
+        "WM-B",
+        "WM power bus",
+        "WM management component",
+        "WM Management"
+      ],
+      "type": "HW",
+      "total_mentions": 341,
+      "variants_count": 15,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "OBC-S",
+      "full_name": "OBC-S",
+      "aliases": [
+        "OBC",
+        "OBC-C",
+        "OBCW-S",
+        "SVC OBC",
+        "SVC-OBC",
+        "WM OBC",
+        "OBCs",
+        "Servicer OBC",
+        "OBCP",
+        "OBC Software",
+        "OBC-Client",
+        "OBC-Servicer",
+        "OBC-S/C",
+        "OBC-S Telemetry",
+        "OBC-s",
+        "SVC OBC-S",
+        "OBC Controller",
+        "OBC-C SW",
+        "Client OBC-C",
+        "SIOBC-S",
+        "WM OBC Controller",
+        "spacecraft OBCs",
+        "SVCOBC"
+      ],
+      "type": "HW",
+      "total_mentions": 282,
+      "variants_count": 24,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "R-ICU",
+      "full_name": "R-ICU",
+      "aliases": [
+        "ICU",
+        "R-ICU B",
+        "R-ICU A",
+        "SVC R-ICU",
+        "SM R-ICU",
+        "PICU",
+        "R-ICU / FMC Board",
+        "R-ICUs",
+        "R-ICU Software",
+        "SMR-ICU",
+        "SM1-PWS R-ICU",
+        "SM1-DMS R-ICU",
+        "R-ICU Controller"
+      ],
+      "type": "HW",
+      "total_mentions": 270,
+      "variants_count": 14,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "HOTDOCK",
+      "full_name": "HOTDOCK",
+      "aliases": [
+        "HOTDOCK Controller software",
+        "HOTDOCK Management",
+        "hot dock",
+        "HOTDOCK A",
+        "HOTDOCK AT",
+        "HOTDOCK D",
+        "HOTDOCK SI",
+        "HOTDOCK-A",
+        "HOTDOCK-B",
+        "WM HOTDOCK SI",
+        "passive HOTDOCK",
+        "HOTDOCK Controllers",
+        "HOTDOCK P",
+        "HOTDOCK PT",
+        "HOTDOCK M",
+        "Active HOTDOCK plate",
+        "HOTDOCKs",
+        "HOTDOCK-A-PASSIVE",
+        "HOTDOCK-C-PASSIVE",
+        "HOTDOCK-D-FIXED",
+        "HOTDOCK-F-FIXED",
+        "B-HOTDOCK",
+        "Thermal Active HOTDOCK",
+        "Thermal Passive HOTDOCK",
+        "Active HOTDOCK",
+        "thermal active HOTDOCK",
+        "fixed HOTDOCK",
+        "dummy HOTDOCK",
+        "HOTDOCK Control",
+        "HOTDOCK Control / Temperature MCU",
+        "HOTDOCK Control / Temperature connector plate",
+        "HOTDOCK Control / Proximity sensor [4] (on/off)",
+        "HOTDOCK Control / Locking ring status (open/closed)",
+        "HOTDOCK Control / absolute position sensor",
+        "HOTDOCK Control / motor current",
+        "HOTDOCK Control / motor speed",
+        "HOTDOCK Control / HOTDOCK state",
+        "HOTDOCK Control / Error state",
+        "HOTDOCK Control / SI State Update",
+        "HOTDOCK Control / Emergency stop",
+        "HOTDOCK Control / Led pattern (TBC)",
+        "Hotdocks"
+      ],
+      "type": "HW",
+      "total_mentions": 262,
+      "variants_count": 43,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "cPDU",
+      "full_name": "cPDU",
+      "aliases": [
+        "central PDU",
+        "PDU",
+        "SVC-cPDU",
+        "SVC cPDU",
+        "cPDU-1",
+        "cPDU-2",
+        "SM1cPDU",
+        "cPDU Controller software",
+        "SVCcPDU",
+        "SMcPDU",
+        "SM cPDU",
+        "cPDU 1",
+        "cPDU 2",
+        "CLTcPDU",
+        "cPDUController",
+        "cPDU Controller"
+      ],
+      "type": "HW",
+      "total_mentions": 201,
+      "variants_count": 17,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "SM",
+      "full_name": "SM",
+      "aliases": [
+        "ASM",
+        "SW",
+        "SA",
+        "ESA"
+      ],
+      "type": "HW",
+      "total_mentions": 101,
+      "variants_count": 5,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "SM1-DMS",
+      "full_name": "SM1-DMS",
+      "aliases": [
+        "SM3-BAT",
+        "SM1",
+        "SM5-OSP1",
+        "SM2",
+        "SM6-OSP2",
+        "DMS",
+        "SM-SI-2",
+        "SM1-SI-A",
+        "SM1-SI-C",
+        "SM-SI-1",
+        "SM6-SI-F",
+        "SM1- DMS",
+        "SM-SI -1",
+        "SM1-OBC",
+        "SM3",
+        "SM3-SI-F",
+        "SM5-SI-F",
+        "SM5/6 Optical payload",
+        "SM5/6-OSP Optical payload",
+        "SM5/6-OSP",
+        "SM5-OSP",
+        "SM6-OSP",
+        "CLT/SM1-DMS",
+        "SM5/6"
+      ],
+      "type": "HW",
+      "total_mentions": 93,
+      "variants_count": 25,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "CLT",
+      "full_name": "CLT",
+      "aliases": [
+        "CLT-OBC",
+        "CLT R-ICU",
+        "CLT software",
+        "CLT-SI-C",
+        "CLT OBC-C",
+        "SVC-CLT",
+        "SVC and CLT buses",
+        "SIIntegrated SCV/CLT",
+        "CLT-SI-F",
+        "SVC/CLT Buses",
+        "SVC/CLT Power Budget",
+        "CLT RICU",
+        "CLT SI",
+        "CLT-B",
+        "SCV/CLT",
+        "CLT OBC",
+        "CLT bus",
+        "SVC-CLT platform",
+        "CLT instance",
+        "CLT power bus",
+        "SVC/CLT data architecture"
+      ],
+      "type": "HW",
+      "total_mentions": 88,
+      "variants_count": 22,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "SI",
+      "full_name": "SI",
+      "aliases": [
+        "SI-B",
+        "SI-A",
+        "SM SI",
+        "WM SI",
+        "WM-SI-B",
+        "SI TM",
+        "WM SI-B",
+        "WMSI-B",
+        "WM SI-A"
+      ],
+      "type": "HW",
+      "total_mentions": 68,
+      "variants_count": 10,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "MCC",
+      "full_name": "MCC",
+      "aliases": [
+        "M&C Software",
+        "MCC Design and Simulator Tool",
+        "MCC Planner",
+        "MCC Design and Simulator Software",
+        "MCC Planner Software",
+        "MCC software"
+      ],
+      "type": "HW",
+      "total_mentions": 56,
+      "variants_count": 7,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "SVC",
+      "full_name": "SVC",
+      "aliases": [
+        "SVC-SI-X",
+        "SVC-SI-W",
+        "SCV-SI-X",
+        "SVC instance",
+        "SVC structure"
+      ],
+      "type": "HW",
+      "total_mentions": 48,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Walking Manipulator",
+      "full_name": "Walking Manipulator",
+      "aliases": [
+        "walking manipulator",
+        "walking manipulator components",
+        "Walking Manipulator Management",
+        "Walking Manipulator High-Level software",
+        "Walking Manipulator Low-Level software",
+        "Walking Monipulator Controller",
+        "ST7 - Walking Manipulator",
+        "MOSAR Walking Manipulator",
+        "Walking Manipulator avionics",
+        "WalkingManipulator"
+      ],
+      "type": "HW",
+      "total_mentions": 46,
+      "variants_count": 11,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "RMAP",
+      "full_name": "RMAP",
+      "aliases": [
+        "RMAP TM",
+        "RMAP TC",
+        "RMAPTM",
+        "RMAP telemetry",
+        "RMAP IP",
+        "RMAP interface",
+        "RMAP communications"
+      ],
+      "type": "HW",
+      "total_mentions": 46,
+      "variants_count": 8,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "PUS Console",
+      "full_name": "PUS Console",
+      "aliases": [
+        "PUS",
+        "PUS Console GUI",
+        "PUS 3",
+        "PUSservice 210",
+        "PUS services",
+        "PUSConsole",
+        "PUS service 200",
+        "PUS service 210",
+        "PUS Console application",
+        "MCC and PUS Service",
+        "PUS Service 220",
+        "PUS Console/Service",
+        "PUS Services",
+        "PUS packets",
+        "PUS standard"
+      ],
+      "type": "HW",
+      "total_mentions": 43,
+      "variants_count": 16,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Client Spacecraft",
+      "full_name": "Client Spacecraft",
+      "aliases": [
+        "Spacecraft Modules",
+        "spacecraft modules",
+        "servicer spacecraft",
+        "Servicer spacecraft",
+        "Servicer Spacecraft",
+        "Radar payload +service modules",
+        "Spacecraft Modules Payloads software",
+        "Spacecraft Modules and Payloads",
+        "Spacecraft Modules Detailed Design",
+        "ST4 - Servicer Spacecraft Bus (SVC)",
+        "ST6 - Spacecraft Modules (SM)",
+        "Servicer Spacecraft Bus (SVC)",
+        "spacecraft buses",
+        "spacecraft SI",
+        "spacecraft computer",
+        "client modular spacecraft mockup",
+        "Client (spacecraft)",
+        "spacecraft mockup",
+        "Spacecraft Bus"
+      ],
+      "type": "HW",
+      "total_mentions": 36,
+      "variants_count": 20,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Battery Control",
+      "full_name": "Battery Control",
+      "aliases": [
+        "battery",
+        "Battery Visualization",
+        "Battery Subsystem",
+        "battery pack",
+        "battery payload",
+        "Battery pack",
+        "battery subsystem controller",
+        "battery controller",
+        "Battery Management",
+        "battery controller system",
+        "Battery subsystem TM / TC",
+        "battery subsystem",
+        "battery charger",
+        "battery control board",
+        "Battery",
+        "Battery Controller",
+        "Battery Voltage",
+        "Battery Current",
+        "Battery State of Charge",
+        "Bus Voltage",
+        "Battery Temperature"
+      ],
+      "type": "HW",
+      "total_mentions": 36,
+      "variants_count": 22,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Simulator",
+      "full_name": "Simulator",
+      "aliases": [
+        "Design Tool",
+        "Design Tool-Simulator",
+        "Functional Engineering Simulator",
+        "design and simulation tool",
+        "Design Tool software",
+        "Design and Simulation Tool",
+        "Design and Simulator Tools",
+        "ST2 - Design and Simulation Tool",
+        "ST3 – Planner and Simulation Tool",
+        "planner and the simulation interface",
+        "Design Tool-Planner",
+        "Design Software",
+        "Simulator Computing Platform"
+      ],
+      "type": "HW",
+      "total_mentions": 34,
+      "variants_count": 14,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "ERGO Agent",
+      "full_name": "ERGO Agent",
+      "aliases": [
+        "ERGO",
+        "ERGO RARM Camera",
+        "ERGO Goals",
+        "ERGO/Planner",
+        "ERGO software",
+        "ERGO component"
+      ],
+      "type": "HW",
+      "total_mentions": 33,
+      "variants_count": 7,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "thermal payload",
+      "full_name": "thermal payload",
+      "aliases": [
+        "Thermal Subsystem",
+        "thermal management",
+        "thermal",
+        "thermal payload heater",
+        "Thermal Control",
+        "Thermal Controller",
+        "ThermalActive",
+        "Thermal payload",
+        "thermal heater",
+        "Thermal subsystem circuitry",
+        "thermal subsystem components",
+        "Thermal Subsystem module (SM4-THS)",
+        "thermal module",
+        "low-level thermal controller",
+        "Thermal Management",
+        "thermal Visualization",
+        "thermal controller",
+        "Thermal Control software",
+        "Thermal Management component",
+        "thermal Visualization component",
+        "Thermal Subsystem module (THS)"
+      ],
+      "type": "HW",
+      "total_mentions": 32,
+      "variants_count": 22,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "TASTE",
+      "full_name": "TASTE",
+      "aliases": [
+        "TASTE model",
+        "TASTE middleware",
+        "TASTE Interface View",
+        "TASTE toolchain",
+        "TASTE computing units",
+        "TASTE simplified module",
+        "TASTE node",
+        "TASTE function"
+      ],
+      "type": "HW",
+      "total_mentions": 31,
+      "variants_count": 9,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "SM2-PWS",
+      "full_name": "SM2-PWS",
+      "aliases": [
+        "PWS",
+        "PWS Pump",
+        "CLT/SM2-PWS"
+      ],
+      "type": "HW",
+      "total_mentions": 31,
+      "variants_count": 4,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "FMC Board",
+      "full_name": "FMC Board",
+      "aliases": [
+        "FMC BoardSpW Brick",
+        "FMC",
+        "FMC Board CLT",
+        "FMC board",
+        "FMC Board SVC",
+        "FMC add-on card",
+        "FMC card",
+        "FMC daughter board"
+      ],
+      "type": "HW",
+      "total_mentions": 29,
+      "variants_count": 9,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "SpW Brick",
+      "full_name": "SpW Brick",
+      "aliases": [
+        "SpW conversion unit",
+        "SpWRouter",
+        "SpW Bridge",
+        "SpW Router",
+        "SVC SpW Bridge",
+        "SM1 SpW Bridge",
+        "SpW brick",
+        "SpW Birck",
+        "SpW",
+        "SpW bricks",
+        "Spw Bricks",
+        "SpW bridge",
+        "SPWF04S"
+      ],
+      "type": "HW",
+      "total_mentions": 25,
+      "variants_count": 14,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "SM4-THS",
+      "full_name": "SM4-THS",
+      "aliases": [
+        "THS",
+        "SM4-THS Thermal Payload",
+        "THS Pump",
+        "THS PWS"
+      ],
+      "type": "HW",
+      "total_mentions": 25,
+      "variants_count": 5,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Planner",
+      "full_name": "Planner",
+      "aliases": [
+        "PathPlanner",
+        "trajectory planner",
+        "trajectory planning",
+        "Planner wrapper",
+        "planner",
+        "Planner and Agent",
+        "Trajectory planner",
+        "trajectoryplanner",
+        "Planner Agent"
+      ],
+      "type": "HW",
+      "total_mentions": 24,
+      "variants_count": 10,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "I3DS",
+      "full_name": "I3DS",
+      "aliases": [
+        "I3DS framework",
+        "I3DS Framework",
+        "OG4I3DS",
+        "I3DS program code"
+      ],
+      "type": "HW",
+      "total_mentions": 22,
+      "variants_count": 5,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SpaceWire router",
+      "full_name": "SpaceWire router",
+      "aliases": [
+        "SpaceWire",
+        "SpaceWire IP cores",
+        "SpaceWire-PlugNPlay",
+        "SpaceWire router hardware",
+        "SpaceWire Router",
+        "SpaceWire IP core",
+        "SpaceWire routing tables"
+      ],
+      "type": "HW",
+      "total_mentions": 21,
+      "variants_count": 8,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Robotic Arm",
+      "full_name": "Robotic Arm",
+      "aliases": [
+        "Robotic Arm SW",
+        "Design Tool-Simulator-Robotic Arm SW",
+        "Simulator-Robotic Arm SW",
+        "ERGO robotic arm driver",
+        "robotic manipulator",
+        "robot model",
+        "KRAKEN Robotic Arm",
+        "walking robotic arm manipulator",
+        "Robotic Arm Main Components",
+        "robotic walking manipulator",
+        "robot",
+        "robotic arm driver"
+      ],
+      "type": "HW",
+      "total_mentions": 21,
+      "variants_count": 13,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "PC",
+      "full_name": "PC",
+      "aliases": [
+        "GUI",
+        "CPU",
+        "GPU",
+        "computers",
+        "computer"
+      ],
+      "type": "HW",
+      "total_mentions": 20,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "ESROCOS",
+      "full_name": "ESROCOS",
+      "aliases": [
+        "ESROCOS PUS Services library",
+        "RCOS",
+        "ESROCOS PUS services",
+        "ESROCOS/ERGO",
+        "ESROCOSPUS"
+      ],
+      "type": "HW",
+      "total_mentions": 19,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "ZED Camera",
+      "full_name": "ZED Camera",
+      "aliases": [
+        "ZED camera",
+        "Zed Stereo Camera",
+        "Zed Camera",
+        "fixed stereo camera",
+        "Stereo Camera 1",
+        "Stereo Camera 2"
+      ],
+      "type": "HW",
+      "total_mentions": 19,
+      "variants_count": 7,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "vision processing platform",
+      "full_name": "vision processing platform",
+      "aliases": [
+        "Visual Processing System",
+        "vision processing system",
+        "Visual Processing System software",
+        "visual processing system",
+        "vision processing algorithms",
+        "Visual Subsystem",
+        "ST10-Visual Processing System",
+        "vision processing hardware",
+        "Visual Processing System components",
+        "vision subsystem",
+        "Software architecture of the vision subsystem"
+      ],
+      "type": "HW",
+      "total_mentions": 19,
+      "variants_count": 12,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "SMs",
+      "full_name": "SMs",
+      "aliases": [
+        "SM Manager",
+        "SM network",
+        "SM CAN",
+        "SMexchange",
+        "SM management software",
+        "SM operational software"
+      ],
+      "type": "HW",
+      "total_mentions": 18,
+      "variants_count": 7,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Autonomy Agent",
+      "full_name": "Autonomy Agent",
+      "aliases": [
+        "Simulator-Planner-Autonomy Agent",
+        "Autonomy Agent and Planning",
+        "Planner-Autonomy Agent"
+      ],
+      "type": "HW",
+      "total_mentions": 17,
+      "variants_count": 4,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "OBSW",
+      "full_name": "OBSW",
+      "aliases": [
+        "OBSW-S",
+        "OBSW-C"
+      ],
+      "type": "HW",
+      "total_mentions": 17,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "FES",
+      "full_name": "FES",
+      "aliases": [
+        "FES simulator"
+      ],
+      "type": "HW",
+      "total_mentions": 16,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "APM",
+      "full_name": "APM",
+      "aliases": [
+        "APMs",
+        "ASMs",
+        "APM/ASM Control",
+        "SM(ASM/APM)",
+        "ASMs/APMs"
+      ],
+      "type": "HW",
+      "total_mentions": 15,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "BAT",
+      "full_name": "BAT",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 15,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "power source",
+      "full_name": "power source",
+      "aliases": [
+        "power generator",
+        "Data and Power Management",
+        "MainPower Supply",
+        "power supply",
+        "power generator module",
+        "Power Subsystem",
+        "power module",
+        "Power Management",
+        "Power Control",
+        "power generation module",
+        "Power Subsystem (PWS)"
+      ],
+      "type": "HW",
+      "total_mentions": 15,
+      "variants_count": 12,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Payload",
+      "full_name": "Payload",
+      "aliases": [
+        "payload",
+        "hosted payload module",
+        "module payload boards",
+        "payload module",
+        "payload modules"
+      ],
+      "type": "HW",
+      "total_mentions": 15,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Monitoring and Control Software",
+      "full_name": "Monitoring and Control Software",
+      "aliases": [
+        "Monitoring and Control interface",
+        "Monitoring and Control",
+        "ST1 - Monitoring and Control Centre",
+        "monitoring and control centre",
+        "Monitoring and Control Console",
+        "Monitoring and Control PC",
+        "Monitoring, Control and visualization PC",
+        "monitoring and control center"
+      ],
+      "type": "HW",
+      "total_mentions": 14,
+      "variants_count": 9,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "DLR Visualization library",
+      "full_name": "DLR Visualization library",
+      "aliases": [
+        "DLR SpaceSystems library",
+        "DLR Robots library",
+        "DLR RobotDynamics library",
+        "DLR",
+        "DLR-SR Modelica libraries",
+        "DLR SR contact dynamics library",
+        "DLR FES"
+      ],
+      "type": "HW",
+      "total_mentions": 14,
+      "variants_count": 8,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "RARM",
+      "full_name": "RARM",
+      "aliases": [
+        "RARMManager",
+        "RARM_SW_COMPONENT",
+        "Display RARM driver",
+        "RARM Driver"
+      ],
+      "type": "HW",
+      "total_mentions": 14,
+      "variants_count": 5,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "OSP",
+      "full_name": "OSP",
+      "aliases": [
+        "OSP Management",
+        "OSP Control",
+        "OSP Control software",
+        "OSP1",
+        "OSP2"
+      ],
+      "type": "HW",
+      "total_mentions": 14,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "MPSoC",
+      "full_name": "MPSoC",
+      "aliases": [
+        "Zynq MPSoC",
+        "Zynq Ultrascale+ MPSoC",
+        "MPSoC USB controller",
+        "Zynq MPSoC bootloader",
+        "UltraScale+ MPSoC SOM"
+      ],
+      "type": "HW",
+      "total_mentions": 14,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Component Control",
+      "full_name": "Component Control",
+      "aliases": [
+        "Component Controller",
+        "Management component",
+        "Component manager",
+        "Components Managers",
+        "Component Management"
+      ],
+      "type": "HW",
+      "total_mentions": 13,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "optical SM",
+      "full_name": "optical SM",
+      "aliases": [
+        "Optical camera",
+        "optical payload modules",
+        "optical payload",
+        "Optical Sensor Payload",
+        "Optical Sensor Payload module"
+      ],
+      "type": "HW",
+      "total_mentions": 13,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Payload Management",
+      "full_name": "Payload Management",
+      "aliases": [
+        "Payload Controller",
+        "Payload Management (OBC-C)",
+        "Payload Control (R-ICU)",
+        "Payload Controller (Component)",
+        "Payload Control"
+      ],
+      "type": "HW",
+      "total_mentions": 13,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "OG",
+      "full_name": "OG",
+      "aliases": [
+        "OG1",
+        "OG5",
+        "OG2",
+        "OG1-5",
+        "OG3"
+      ],
+      "type": "HW",
+      "total_mentions": 12,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "joint drivers",
+      "full_name": "joint drivers",
+      "aliases": [
+        "joint sensors TM",
+        "joint sensors",
+        "joint controllers",
+        "joint motors",
+        "joint motor",
+        "Joints Controller"
+      ],
+      "type": "HW",
+      "total_mentions": 12,
+      "variants_count": 7,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "DFPC",
+      "full_name": "DFPC",
+      "aliases": [
+        "DFPCs"
+      ],
+      "type": "HW",
+      "total_mentions": 12,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PGCI Reactor",
+      "full_name": "PGCI Reactor",
+      "aliases": [
+        "MPR Reactor",
+        "Deliberative reactor",
+        "Mission Planner Reactor",
+        "PGCI reactor",
+        "GCI Reactor"
+      ],
+      "type": "HW",
+      "total_mentions": 12,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "camera",
+      "full_name": "camera",
+      "aliases": [
+        "camera payloads",
+        "payload cameras",
+        "Camera Payload",
+        "fixed camera",
+        "cameras"
+      ],
+      "type": "HW",
+      "total_mentions": 12,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "OSP Relay",
+      "full_name": "OSP Relay",
+      "aliases": [
+        "power relay",
+        "Payload Relay",
+        "Module power relay",
+        "relays",
+        "Payload relay"
+      ],
+      "type": "HW",
+      "total_mentions": 12,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Telemetry and Telecommand (TCC) Service",
+      "full_name": "Telemetry and Telecommand (TCC) Service",
+      "aliases": [
+        "Telecommand",
+        "Telemetry and Telecommand (TTC) Service",
+        "telecommand",
+        "Telemetry",
+        "Telemetry and Telecommand Service"
+      ],
+      "type": "HW",
+      "total_mentions": 11,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Linux",
+      "full_name": "Linux",
+      "aliases": [
+        "OS",
+        "Ubuntu Operating System",
+        "Ubuntu Operating system",
+        "Unix",
+        "OS for Operating Systems"
+      ],
+      "type": "HW",
+      "total_mentions": 11,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "local controller",
+      "full_name": "local controller",
+      "aliases": [
+        "microcontroller",
+        "Internal Camera Controller",
+        "Local Controller",
+        "Embedded controller"
+      ],
+      "type": "HW",
+      "total_mentions": 11,
+      "variants_count": 5,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "FM1",
+      "full_name": "FM1",
+      "aliases": [
+        "FM2",
+        "FM5",
+        "FM connector",
+        "FM",
+        "FM3",
+        "FM4"
+      ],
+      "type": "HW",
+      "total_mentions": 11,
+      "variants_count": 7,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "PERxRy",
+      "full_name": "PERxRy",
+      "aliases": [
+        "PEPExRy",
+        "PERxPEy",
+        "PEPEsRs",
+        "PERdPEd",
+        "PEPE1R",
+        "PERPE2"
+      ],
+      "type": "HW",
+      "total_mentions": 10,
+      "variants_count": 7,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "client satellite bus",
+      "full_name": "client satellite bus",
+      "aliases": [
+        "satellite bus",
+        "Servicer satellite bus",
+        "Client satellite bus",
+        "ST5 - Client Satellite Bus (CLT)",
+        "client satellite bus (CLT)",
+        "Client Satellite bus",
+        "servicer satellite"
+      ],
+      "type": "HW",
+      "total_mentions": 10,
+      "variants_count": 8,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "RTEMS",
+      "full_name": "RTEMS",
+      "aliases": [
+        "VxWorks",
+        "FreeRTOS",
+        "RTEMS RTOS"
+      ],
+      "type": "HW",
+      "total_mentions": 10,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Interface Anomaly Detection P",
+      "full_name": "Interface Anomaly Detection P",
+      "aliases": [
+        "Module AnomalyDetection",
+        "Module Anomaly Detection Program",
+        "Module Anomaly Detection",
+        "Interface Anomaly Detection Program",
+        "Instance 1.4 Module Anomaly",
+        "Instance 1.4 Module Anomaly Detection",
+        "Reconfiguration Anomaly Detection Program"
+      ],
+      "type": "HW",
+      "total_mentions": 10,
+      "variants_count": 8,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "R5",
+      "full_name": "R5",
+      "aliases": [
+        "R5.2",
+        "R5 processors",
+        "R5 software",
+        "R5 #1",
+        "R5s"
+      ],
+      "type": "HW",
+      "total_mentions": 9,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "MATLAB",
+      "full_name": "MATLAB",
+      "aliases": [
+        "Simulink",
+        "Matlab script",
+        "Matlab Simulink",
+        "MATLAB/Simulink"
+      ],
+      "type": "HW",
+      "total_mentions": 9,
+      "variants_count": 5,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SM Manager Reactor",
+      "full_name": "SM Manager Reactor",
+      "aliases": [
+        "CMD Reactor",
+        "WM Manager Reactor",
+        "Reactors Architecture",
+        "Command Dispatcher Reactor"
+      ],
+      "type": "HW",
+      "total_mentions": 9,
+      "variants_count": 5,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TMTC",
+      "full_name": "TMTC",
+      "aliases": [
+        "TM/TC",
+        "TMTC manager",
+        "TM",
+        "TM data"
+      ],
+      "type": "HW",
+      "total_mentions": 9,
+      "variants_count": 5,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ZeroMQ",
+      "full_name": "ZeroMQ",
+      "aliases": [
+        "zeroMQ",
+        "ZeroMQ protocol",
+        "ZeroMQ library"
+      ],
+      "type": "HW",
+      "total_mentions": 9,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "EGSE",
+      "full_name": "EGSE",
+      "aliases": [
+        "MGSE"
+      ],
+      "type": "HW",
+      "total_mentions": 9,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "MMC",
+      "full_name": "MMC",
+      "aliases": [
+        "CMD"
+      ],
+      "type": "HW",
+      "total_mentions": 8,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "proximity sensors",
+      "full_name": "proximity sensors",
+      "aliases": [
+        "current/voltage sensors",
+        "External_Sensors",
+        "sensors",
+        "Proximity sensor",
+        "Torque/force sensors",
+        "Force/Torque sensors"
+      ],
+      "type": "HW",
+      "total_mentions": 8,
+      "variants_count": 7,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "CollisionChecker",
+      "full_name": "CollisionChecker",
+      "aliases": [
+        "Collision"
+      ],
+      "type": "HW",
+      "total_mentions": 8,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Driver",
+      "full_name": "Driver",
+      "aliases": [
+        "display driver"
+      ],
+      "type": "HW",
+      "total_mentions": 8,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "FPGA",
+      "full_name": "FPGA",
+      "aliases": [
+        "FPGA Mezzanine Card",
+        "Polarfire-FPGA",
+        "FPGAs"
+      ],
+      "type": "HW",
+      "total_mentions": 8,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PCI",
+      "full_name": "PCI",
+      "aliases": [
+        "TCP",
+        "IP",
+        "UDP"
+      ],
+      "type": "HW",
+      "total_mentions": 8,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "USB",
+      "full_name": "USB",
+      "aliases": [
+        "UART",
+        "UART cable",
+        "USB UART"
+      ],
+      "type": "HW",
+      "total_mentions": 8,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Power Distribution Unit",
+      "full_name": "Power Distribution Unit",
+      "aliases": [
+        "Centralized Power Distribution Unit",
+        "centralpower distribution unit"
+      ],
+      "type": "HW",
+      "total_mentions": 8,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "MAGSOAR",
+      "full_name": "MAGSOAR",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 8,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Planning PC",
+      "full_name": "Planning PC",
+      "aliases": [
+        "Design and Simulation PC",
+        "Design and FES PC",
+        "PC screens",
+        "Monitoring PC",
+        "Planner PC"
+      ],
+      "type": "HW",
+      "total_mentions": 8,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "TC",
+      "full_name": "TC",
+      "aliases": [
+        "CAN TC",
+        "TC[200,3]",
+        "CTL"
+      ],
+      "type": "HW",
+      "total_mentions": 7,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Agent",
+      "full_name": "Agent",
+      "aliases": [
+        "Agent SW"
+      ],
+      "type": "HW",
+      "total_mentions": 7,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Ethernet cable",
+      "full_name": "Ethernet cable",
+      "aliases": [
+        "Ethernet",
+        "Ethernet cables",
+        "Ethernet Switch",
+        "central Ethernet switch",
+        "Ethernet switch"
+      ],
+      "type": "HW",
+      "total_mentions": 7,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Visualization software",
+      "full_name": "Visualization software",
+      "aliases": [
+        "Image viewer",
+        "viewer tool",
+        "Visualization component",
+        "visualization PC"
+      ],
+      "type": "HW",
+      "total_mentions": 7,
+      "variants_count": 5,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SPLSC BUS",
+      "full_name": "SPLSC BUS",
+      "aliases": [
+        "PICUSPLTHSSC BUS",
+        "PICUSPLTHSBATSASC BUS",
+        "Bus Current"
+      ],
+      "type": "HW",
+      "total_mentions": 7,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "48V power supply",
+      "full_name": "48V power supply",
+      "aliases": [
+        "48V bench power supply",
+        "DC Bench power supply"
+      ],
+      "type": "HW",
+      "total_mentions": 7,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "AIR ARINC 653",
+      "full_name": "AIR ARINC 653",
+      "aliases": [
+        "ARINC 653",
+        "Air ARINC 653",
+        "TSP ARINC 653"
+      ],
+      "type": "HW",
+      "total_mentions": 7,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "mode manager",
+      "full_name": "mode manager",
+      "aliases": [
+        "Configuration_Manager",
+        "MANAGER"
+      ],
+      "type": "HW",
+      "total_mentions": 6,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "GCI",
+      "full_name": "GCI",
+      "aliases": [
+        "PGCI"
+      ],
+      "type": "HW",
+      "total_mentions": 6,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PDDL",
+      "full_name": "PDDL",
+      "aliases": [
+        "PDDL parser and data types",
+        "Planner PDDL model",
+        "PDD"
+      ],
+      "type": "HW",
+      "total_mentions": 6,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "NUC8i7INH",
+      "full_name": "NUC8i7INH",
+      "aliases": [
+        "Intel NUC",
+        "Intel NUC board"
+      ],
+      "type": "HW",
+      "total_mentions": 6,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "VALVE_STATUS",
+      "full_name": "VALVE_STATUS",
+      "aliases": [
+        "VALVE_3_STATUS",
+        "VALVE_4_STATUS",
+        "VALVE_5_STATUS",
+        "VALVE_6_STATUS",
+        "VALVE_7_STATUS"
+      ],
+      "type": "HW",
+      "total_mentions": 6,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Data Control",
+      "full_name": "Data Control",
+      "aliases": [
+        "Data Management System",
+        "Data Management",
+        "Data Management Module",
+        "Data Distribution Service",
+        "Data Management Subsystem module (DMS)"
+      ],
+      "type": "HW",
+      "total_mentions": 6,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "TBC",
+      "full_name": "TBC",
+      "aliases": [
+        "TBD"
+      ],
+      "type": "HW",
+      "total_mentions": 6,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "InFuse",
+      "full_name": "InFuse",
+      "aliases": [
+        "Infuse"
+      ],
+      "type": "HW",
+      "total_mentions": 6,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Functional Layer",
+      "full_name": "Functional Layer",
+      "aliases": [
+        "Functional Layer software",
+        "functional layer"
+      ],
+      "type": "HW",
+      "total_mentions": 6,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "on-board computer",
+      "full_name": "on-board computer",
+      "aliases": [
+        "Onboard Computer"
+      ],
+      "type": "HW",
+      "total_mentions": 6,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "payload proxy",
+      "full_name": "payload proxy",
+      "aliases": [
+        "Payload_1_Proxy",
+        "Payload_2_Proxy",
+        "Payload_3_Proxy",
+        "Payload_4_ProxyNetwork_Parameters",
+        "payload proxies"
+      ],
+      "type": "HW",
+      "total_mentions": 6,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "SIROM",
+      "full_name": "SIROM",
+      "aliases": [
+        "OG5-SIROM"
+      ],
+      "type": "HW",
+      "total_mentions": 6,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Client Management",
+      "full_name": "Client Management",
+      "aliases": [
+        "Client system"
+      ],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Control software",
+      "full_name": "Control software",
+      "aliases": [
+        "Management software"
+      ],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TTC",
+      "full_name": "TTC",
+      "aliases": [
+        "TTC service"
+      ],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "WBC",
+      "full_name": "WBC",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Ground Control Interface",
+      "full_name": "Ground Control Interface",
+      "aliases": [
+        "PUS Ground Control Interface Reactor",
+        "PUS Ground Control Interface",
+        "PUS Ground Control Interface (PGCI)",
+        "OG2/ERGO Ground Control Interface"
+      ],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 5,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "OMPL",
+      "full_name": "OMPL",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Reconfiguration Management",
+      "full_name": "Reconfiguration Management",
+      "aliases": [
+        "SW reconfiguration",
+        "IR reconfiguration option",
+        "reconfigurable system"
+      ],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Data Fusion Node",
+      "full_name": "Data Fusion Node",
+      "aliases": [
+        "Data Fusion Procession Compound",
+        "Data Fusion Processing Compound (DFPC)",
+        "Data Fusion Nodes",
+        "Data Fusion Processing Compounds"
+      ],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 5,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "GUI interface",
+      "full_name": "GUI interface",
+      "aliases": [
+        "Graphical User Interface"
+      ],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "RID",
+      "full_name": "RID",
+      "aliases": [
+        "HD",
+        "RD",
+        "DDS"
+      ],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Valve 3",
+      "full_name": "Valve 3",
+      "aliases": [
+        "Valve 4",
+        "Valve 5",
+        "Valve 6",
+        "Valve 7"
+      ],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 5,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PCB",
+      "full_name": "PCB",
+      "aliases": [
+        "PCB controller",
+        "Printed Circuit Board"
+      ],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "OSP Visualization",
+      "full_name": "OSP Visualization",
+      "aliases": [
+        "OSP Visualization Component"
+      ],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "USB WiFi dongle",
+      "full_name": "USB WiFi dongle",
+      "aliases": [
+        "USB WiFi",
+        "usb adapters",
+        "USB Brick"
+      ],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "OBC RMAP TMTC software",
+      "full_name": "OBC RMAP TMTC software",
+      "aliases": [
+        "OBC TMTC software"
+      ],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "spaces modules",
+      "full_name": "spaces modules",
+      "aliases": [
+        "functionalmodules",
+        "service modules",
+        "functional modules",
+        "functional module structure"
+      ],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 5,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Micro-kernel",
+      "full_name": "Micro-kernel",
+      "aliases": [
+        "Micro-Python",
+        "Micro Python",
+        "Micropython"
+      ],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "x86",
+      "full_name": "x86",
+      "aliases": [
+        "Unix x86 OBCs",
+        "x86_Unix",
+        "x86_linux",
+        "x86_partition"
+      ],
+      "type": "HW",
+      "total_mentions": 5,
+      "variants_count": 5,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "monitor",
+      "full_name": "monitor",
+      "aliases": [
+        "Guard",
+        "observer"
+      ],
+      "type": "HW",
+      "total_mentions": 4,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SOD",
+      "full_name": "SOD",
+      "aliases": [
+        "SOD Reactor"
+      ],
+      "type": "HW",
+      "total_mentions": 4,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "router",
+      "full_name": "router",
+      "aliases": [
+        "routers",
+        "software router"
+      ],
+      "type": "HW",
+      "total_mentions": 4,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "UseCaseDriver",
+      "full_name": "UseCaseDriver",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 4,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "DC/DC convertors",
+      "full_name": "DC/DC convertors",
+      "aliases": [
+        "DC/DC converter",
+        "DC/DC convertor"
+      ],
+      "type": "HW",
+      "total_mentions": 4,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "EtherCAT",
+      "full_name": "EtherCAT",
+      "aliases": [
+        "Beckhoff EtherCAT-G"
+      ],
+      "type": "HW",
+      "total_mentions": 4,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "battery module",
+      "full_name": "battery module",
+      "aliases": [
+        "SM3 Battery Module",
+        "Battery ORU module (SM3-BAT)",
+        "Battery ORU module (BAT)"
+      ],
+      "type": "HW",
+      "total_mentions": 4,
+      "variants_count": 4,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "CAN",
+      "full_name": "CAN",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 4,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "DFN",
+      "full_name": "DFN",
+      "aliases": [
+        "DFNs"
+      ],
+      "type": "HW",
+      "total_mentions": 4,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TC_ATM",
+      "full_name": "TC_ATM",
+      "aliases": [
+        "TC_MODE",
+        "TC_CHARGER",
+        "TC_BUS"
+      ],
+      "type": "HW",
+      "total_mentions": 4,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "end-effectors",
+      "full_name": "end-effectors",
+      "aliases": [
+        "actuator",
+        "actuators"
+      ],
+      "type": "HW",
+      "total_mentions": 4,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "mouse",
+      "full_name": "mouse",
+      "aliases": [
+        "keyboard"
+      ],
+      "type": "HW",
+      "total_mentions": 4,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PolyORB-HI",
+      "full_name": "PolyORB-HI",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 4,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TAS-F",
+      "full_name": "TAS-F",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 4,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "USTRATH",
+      "full_name": "USTRATH",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 4,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Ubuntu 18.04 LTS 64-bit",
+      "full_name": "Ubuntu 18.04 LTS 64-bit",
+      "aliases": [
+        "Ubuntu 18.04",
+        "Ubuntu Linux 18.04 LTS"
+      ],
+      "type": "HW",
+      "total_mentions": 4,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Active System Module",
+      "full_name": "Active System Module",
+      "aliases": [
+        "Active System Modules",
+        "Active Payload Modules",
+        "Active Payload Module"
+      ],
+      "type": "HW",
+      "total_mentions": 4,
+      "variants_count": 4,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Cheddar",
+      "full_name": "Cheddar",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "processing elements",
+      "full_name": "processing elements",
+      "aliases": [
+        "Processing System",
+        "Main Processing Pipeline"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Node1",
+      "full_name": "Node1",
+      "aliases": [
+        "Node2",
+        "node manager"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "AADLInspector",
+      "full_name": "AADLInspector",
+      "aliases": [
+        "AADL"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "URDF",
+      "full_name": "URDF",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "loadModel",
+      "full_name": "loadModel",
+      "aliases": [
+        "modules",
+        "module"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Aluminium beams",
+      "full_name": "Aluminium beams",
+      "aliases": [
+        "Al 7075 T651 frame",
+        "aluminium Al 7075 T651"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "desk",
+      "full_name": "desk",
+      "aliases": [
+        "panel",
+        "screens"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "radiator",
+      "full_name": "radiator",
+      "aliases": [
+        "radiative panel"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "interface panels",
+      "full_name": "interface panels",
+      "aliases": [
+        "lateral panels"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "API",
+      "full_name": "API",
+      "aliases": [
+        "APID",
+        "API avaliable"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "DMA",
+      "full_name": "DMA",
+      "aliases": [
+        "DMA interfaces"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "European Robotic Goal-Oriented Autonomous Controller",
+      "full_name": "European Robotic Goal-Oriented Autonomous Controller",
+      "aliases": [
+        "European Space Robotics Control and Operating System"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "GPIO",
+      "full_name": "GPIO",
+      "aliases": [
+        "GPIOs"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "vision sensor",
+      "full_name": "vision sensor",
+      "aliases": [
+        "Integrated 3D Sensors",
+        "stereo vision sensors"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "INR18650-25R cells",
+      "full_name": "INR18650-25R cells",
+      "aliases": [
+        "IR18650 cells"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "IPcore",
+      "full_name": "IPcore",
+      "aliases": [
+        "IPR"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Passive",
+      "full_name": "Passive",
+      "aliases": [
+        "Passive connectors",
+        "passive SI"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "flowmeter",
+      "full_name": "flowmeter",
+      "aliases": [
+        "Mech"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "J3_TLM_V",
+      "full_name": "J3_TLM_V",
+      "aliases": [
+        "J4_TLM_V",
+        "J5_TLM_V"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Trenz carrier card",
+      "full_name": "Trenz carrier card",
+      "aliases": [
+        "Trenz starter kits"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "DDR4",
+      "full_name": "DDR4",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Petalinux",
+      "full_name": "Petalinux",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Control Unit",
+      "full_name": "Control Unit",
+      "aliases": [
+        "control unit",
+        "Reduced Instrument Control Unit"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "IR camera",
+      "full_name": "IR camera",
+      "aliases": [
+        "infrared camera"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "batteries",
+      "full_name": "batteries",
+      "aliases": [
+        "Lithium ion batteries"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "software library",
+      "full_name": "software library",
+      "aliases": [
+        "Software Architecture",
+        "Software Components"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PerfR_E201",
+      "full_name": "PerfR_E201",
+      "aliases": [
+        "PerfR_E202",
+        "PerfR_D205"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "screen wall",
+      "full_name": "screen wall",
+      "aliases": [
+        "touch screen"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "mobile switch",
+      "full_name": "mobile switch",
+      "aliases": [
+        "power transfer switches",
+        "electrical switches"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "AIR",
+      "full_name": "AIR",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Management",
+      "full_name": "Management",
+      "aliases": [
+        "Control"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Dymola",
+      "full_name": "Dymola",
+      "aliases": [
+        "Modelica",
+        "Modelica library"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "valves",
+      "full_name": "valves",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Payload Data Visualization (MCC)",
+      "full_name": "Payload Data Visualization (MCC)",
+      "aliases": [
+        "Payload Data Visualization"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Mode Command",
+      "full_name": "Mode Command",
+      "aliases": [
+        "Battery Control / Mode Command",
+        "Control Mode Command"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "platform",
+      "full_name": "platform",
+      "aliases": [
+        "computing platform",
+        "theplatform"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Standard Interfaces",
+      "full_name": "Standard Interfaces",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "telecommunication payload modules",
+      "full_name": "telecommunication payload modules",
+      "aliases": [
+        "communication module"
+      ],
+      "type": "HW",
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Modes_Automaton",
+      "full_name": "Modes_Automaton",
+      "aliases": [
+        "Modes_Automation"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SCM",
+      "full_name": "SCM",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Function1",
+      "full_name": "Function1",
+      "aliases": [
+        "Function2"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "centralized database",
+      "full_name": "centralized database",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "configuration file",
+      "full_name": "configuration file",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "HOTDOC",
+      "full_name": "HOTDOC",
+      "aliases": [
+        "HOTDCOK"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "routing table",
+      "full_name": "routing table",
+      "aliases": [
+        "routing table TC"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Teleoreactor",
+      "full_name": "Teleoreactor",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "switch",
+      "full_name": "switch",
+      "aliases": [
+        "dispatcher"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Stellar",
+      "full_name": "Stellar",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "hardware API",
+      "full_name": "hardware API",
+      "aliases": [
+        "hardware interfaces"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "WMDriver",
+      "full_name": "WMDriver",
+      "aliases": [
+        "WMSimDriver"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "joint_pose",
+      "full_name": "joint_pose",
+      "aliases": [
+        "getObjectPose"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "forwardKinematics",
+      "full_name": "forwardKinematics",
+      "aliases": [
+        "inverseKinematics"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "getObjectSize",
+      "full_name": "getObjectSize",
+      "aliases": [
+        "getAttachedObject"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "sandwich panels",
+      "full_name": "sandwich panels",
+      "aliases": [
+        "Al Sandwich panels"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "tray structure",
+      "full_name": "tray structure",
+      "aliases": [
+        "internal tray structure"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "CAESAR",
+      "full_name": "CAESAR",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "COTS",
+      "full_name": "COTS",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "fan",
+      "full_name": "fan",
+      "aliases": [
+        "fans array"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ERR_CODES",
+      "full_name": "ERR_CODES",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "EC",
+      "full_name": "EC",
+      "aliases": [
+        "IEEE"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "European Commission",
+      "full_name": "European Commission",
+      "aliases": [
+        "European Space Agency"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "ID",
+      "full_name": "ID",
+      "aliases": [
+        "IDC"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "LVDS",
+      "full_name": "LVDS",
+      "aliases": [
+        "LVTTL"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "3S4P",
+      "full_name": "3S4P",
+      "aliases": [
+        "3S cell arrangement"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TM_UNK",
+      "full_name": "TM_UNK",
+      "aliases": [
+        "TM_ACK"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SoC",
+      "full_name": "SoC",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Date",
+      "full_name": "Date",
+      "aliases": [
+        "Version"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "frame structure",
+      "full_name": "frame structure",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "structural cleats",
+      "full_name": "structural cleats",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Partitions",
+      "full_name": "Partitions",
+      "aliases": [
+        "Time and Space Partitioning"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "CANbus",
+      "full_name": "CANbus",
+      "aliases": [
+        "Universal Serial Bus"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Wide Area Network",
+      "full_name": "Wide Area Network",
+      "aliases": [
+        "Controller Area Network"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "ET1100",
+      "full_name": "ET1100",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Microchip",
+      "full_name": "Microchip",
+      "aliases": [
+        "On-Chip-Memory"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "LEDs",
+      "full_name": "LEDs",
+      "aliases": [
+        "lights"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "GPI pins",
+      "full_name": "GPI pins",
+      "aliases": [
+        "GPO pins"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "AXI interface",
+      "full_name": "AXI interface",
+      "aliases": [
+        "AXI interconnect"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "timecode IP core",
+      "full_name": "timecode IP core",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "CAN controller",
+      "full_name": "CAN controller",
+      "aliases": [
+        "CAN test interface"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "A53",
+      "full_name": "A53",
+      "aliases": [
+        "A53 #0 #3"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "standard computer",
+      "full_name": "standard computer",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "OpenCV",
+      "full_name": "OpenCV",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Point Cloud Library",
+      "full_name": "Point Cloud Library",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "demonstrator system",
+      "full_name": "demonstrator system",
+      "aliases": [
+        "output display system"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "graphic cards",
+      "full_name": "graphic cards",
+      "aliases": [
+        "NVIDIA graphic card"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PTC camera",
+      "full_name": "PTC camera",
+      "aliases": [
+        "PTZ cameras"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Basler camera",
+      "full_name": "Basler camera",
+      "aliases": [
+        "Basler cameras"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SPL",
+      "full_name": "SPL",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Batt1Batt2Batt3 FailSC BUSBatt3 Repl.",
+      "full_name": "Batt1Batt2Batt3 FailSC BUSBatt3 Repl.",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SVC Data and Power Architecture",
+      "full_name": "SVC Data and Power Architecture",
+      "aliases": [
+        "CLT Data and Power Architecture"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Keysight",
+      "full_name": "Keysight",
+      "aliases": [
+        "Keysight Technologies Digital Bench N6701C"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SIMvis",
+      "full_name": "SIMvis",
+      "aliases": [
+        "SimVIS"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Simulinko",
+      "full_name": "Simulinko",
+      "aliases": [
+        "Simulator-Roboti"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Target SI",
+      "full_name": "Target SI",
+      "aliases": [
+        "target SI"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "QNX",
+      "full_name": "QNX",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "AIR Partition Management kernel (PMK)",
+      "full_name": "AIR Partition Management kernel (PMK)",
+      "aliases": [
+        "AIR PMK Partition Dispatcher & Scheduler"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "AIR Health Monitor",
+      "full_name": "AIR Health Monitor",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "interconnectors",
+      "full_name": "interconnectors",
+      "aliases": [
+        "Peripheral Component Interconnect"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "QoS",
+      "full_name": "QoS",
+      "aliases": [
+        "Quality of Service"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ground segment software",
+      "full_name": "ground segment software",
+      "aliases": [
+        "ground segment equipment's"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "pump",
+      "full_name": "pump",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "reservoir",
+      "full_name": "reservoir",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Mode Status",
+      "full_name": "Mode Status",
+      "aliases": [
+        "status telemetry"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "balancing circuitry",
+      "full_name": "balancing circuitry",
+      "aliases": [
+        "charging/discharging circuitry"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Temperature MCU",
+      "full_name": "Temperature MCU",
+      "aliases": [
+        "Temperature motor"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ARM Cortex-R5",
+      "full_name": "ARM Cortex-R5",
+      "aliases": [
+        "ARM Cortex-A53"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "base plate",
+      "full_name": "base plate",
+      "aliases": [
+        "second baseplate"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "dedicated monitor",
+      "full_name": "dedicated monitor",
+      "aliases": [
+        "monitoring interface"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ARRI Daylight spotlight",
+      "full_name": "ARRI Daylight spotlight",
+      "aliases": [
+        "ARRI Fresnel Daylight Compact 2500"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "HMI 2500 W/SE G38",
+      "full_name": "HMI 2500 W/SE G38",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "RTOS",
+      "full_name": "RTOS",
+      "aliases": [
+        "RTOS tasks"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Unix IPC",
+      "full_name": "Unix IPC",
+      "aliases": [
+        "Unix processes"
+      ],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "GMV",
+      "full_name": "GMV",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Ellidiss",
+      "full_name": "Ellidiss",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "LMP",
+      "full_name": "LMP",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "DAG",
+      "full_name": "DAG",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SpW Routing Table Set Entry",
+      "full_name": "SpW Routing Table Set Entry",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "mics library",
+      "full_name": "mics library",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "GNC system",
+      "full_name": "GNC system",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "SIs",
+      "full_name": "SIs",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PGCI TASTE function",
+      "full_name": "PGCI TASTE function",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Executable plan",
+      "full_name": "Executable plan",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "MosarScenarioManager",
+      "full_name": "MosarScenarioManager",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "service boards",
+      "full_name": "service boards",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "KRAKEN",
+      "full_name": "KRAKEN",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ASN.1",
+      "full_name": "ASN.1",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "CAD",
+      "full_name": "CAD",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "CDR",
+      "full_name": "CDR",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "cPUD",
+      "full_name": "cPUD",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Deutschen Zentrum für Luft- und Raumfahrt",
+      "full_name": "Deutschen Zentrum für Luft- und Raumfahrt",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Direct Memory Access",
+      "full_name": "Direct Memory Access",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Field Programmable Gate Array",
+      "full_name": "Field Programmable Gate Array",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "General Purpose Input/Output",
+      "full_name": "General Purpose Input/Output",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "IF",
+      "full_name": "IF",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "JSON",
+      "full_name": "JSON",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "2500mAh battery",
+      "full_name": "2500mAh battery",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TC_HKA",
+      "full_name": "TC_HKA",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TC_ROCKER",
+      "full_name": "TC_ROCKER",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Mechanical Structure",
+      "full_name": "Mechanical Structure",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Page",
+      "full_name": "Page",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "avionic shelf",
+      "full_name": "avionic shelf",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Transmission Control Protocol",
+      "full_name": "Transmission Control Protocol",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Universal Asynchronous Receiver-Transmitter",
+      "full_name": "Universal Asynchronous Receiver-Transmitter",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "User Datagram Protocol",
+      "full_name": "User Datagram Protocol",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Universal Robot Description Format",
+      "full_name": "Universal Robot Description Format",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "FB11xx",
+      "full_name": "FB11xx",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Microsemi",
+      "full_name": "Microsemi",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Dummy (O)",
+      "full_name": "Dummy (O)",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Active",
+      "full_name": "Active",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "diode",
+      "full_name": "diode",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "test cables",
+      "full_name": "test cables",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "CAN interface breakout cable",
+      "full_name": "CAN interface breakout cable",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "TAS-UK SpaceWire RMAP IP core",
+      "full_name": "TAS-UK SpaceWire RMAP IP core",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Memory protection unit",
+      "full_name": "Memory protection unit",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SD card",
+      "full_name": "SD card",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PL",
+      "full_name": "PL",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "interface mesh model",
+      "full_name": "interface mesh model",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "image acquisition system",
+      "full_name": "image acquisition system",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Z2 mini workstation",
+      "full_name": "Z2 mini workstation",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "3 Dimmable bi-color lamps",
+      "full_name": "3 Dimmable bi-color lamps",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Processing Line Variants",
+      "full_name": "Processing Line Variants",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Star-Dundee brick",
+      "full_name": "Star-Dundee brick",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "MOASR",
+      "full_name": "MOASR",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Agent CFG files",
+      "full_name": "Agent CFG files",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ICD",
+      "full_name": "ICD",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "MAIT",
+      "full_name": "MAIT",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PDR",
+      "full_name": "PDR",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TRR",
+      "full_name": "TRR",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "geometry data files",
+      "full_name": "geometry data files",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Samsung",
+      "full_name": "Samsung",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "I/O Manager",
+      "full_name": "I/O Manager",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Simulator0-WM Control SW",
+      "full_name": "Simulator0-WM Control SW",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "AOCS",
+      "full_name": "AOCS",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Personal Computer-Aided",
+      "full_name": "Personal Computer-Aided",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Planning Domain Description Language",
+      "full_name": "Planning Domain Description Language",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PRO-ACT",
+      "full_name": "PRO-ACT",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Planetary Robots Deployed for Assembly and Construction Tasks",
+      "full_name": "Planetary Robots Deployed for Assembly and Construction Tasks",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Packet Utilization Standard",
+      "full_name": "Packet Utilization Standard",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "gearbox dynamics",
+      "full_name": "gearbox dynamics",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "multi-body system",
+      "full_name": "multi-body system",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "RGB",
+      "full_name": "RGB",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "mission-specific service 200",
+      "full_name": "mission-specific service 200",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ASSERT",
+      "full_name": "ASSERT",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "high-level programming language",
+      "full_name": "high-level programming language",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "OperationsContext",
+      "full_name": "OperationsContext",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "EM Control",
+      "full_name": "EM Control",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Move Cartesian",
+      "full_name": "Move Cartesian",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Move Joint",
+      "full_name": "Move Joint",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "POGO connectors",
+      "full_name": "POGO connectors",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Temperature connector plate",
+      "full_name": "Temperature connector plate",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Locking ring status",
+      "full_name": "Locking ring status",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Trenz TE0808-04-9BE21-AS",
+      "full_name": "Trenz TE0808-04-9BE21-AS",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Xilinx ZU9EG",
+      "full_name": "Xilinx ZU9EG",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "MicroBlaze soft-processor",
+      "full_name": "MicroBlaze soft-processor",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "shelfs for internal electronics",
+      "full_name": "shelfs for internal electronics",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "55\" curved UHD Samsung",
+      "full_name": "55\" curved UHD Samsung",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "HDMI outputs",
+      "full_name": "HDMI outputs",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Fresnel",
+      "full_name": "Fresnel",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Ravenscar Profile",
+      "full_name": "Ravenscar Profile",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "OG5 battery controller",
+      "full_name": "OG5 battery controller",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SPACEMAN",
+      "full_name": "SPACEMAN",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ADCs",
+      "full_name": "ADCs",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "POSIX threads",
+      "full_name": "POSIX threads",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "semaphores",
+      "full_name": "semaphores",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "queues",
+      "full_name": "queues",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Global Binary Substitution",
+      "full_name": "Global Binary Substitution",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TSP",
+      "full_name": "TSP",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Deos",
+      "full_name": "Deos",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "H/W",
+      "full_name": "H/W",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PERASPERA",
+      "full_name": "PERASPERA",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "propulsion kit",
+      "full_name": "propulsion kit",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TASTE-DDS bridge",
+      "full_name": "TASTE-DDS bridge",
+      "aliases": [],
+      "type": "HW",
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    }
+  ],
+  "scenarios": [
+    {
+      "canonical_name": "scenario",
+      "full_name": "scenario",
+      "aliases": [
+        "Scenario 1",
+        "demonstration scenarios",
+        "scenario 3",
+        "demonstration scenario",
+        "baseline scenario",
+        "scenario 1",
+        "scenario",
+        "first scenario",
+        "future scenario",
+        "second scenario",
+        "Basic scenario",
+        "Scenario 4",
+        "Demonstration Scenarios",
+        "Scenario 3 (S3)",
+        "Scenario 5 (S5)",
+        "Scenarios 1 and 2",
+        "demonstrator scenario",
+        "ground test scenarios",
+        "an example of this scenario",
+        "Scenario 2",
+        "Scenario 3",
+        "Scenario 5",
+        "operational scenarios",
+        "Scenarios 1",
+        "Scenarios 2",
+        "five selected scenarios",
+        "simple scenario cases",
+        "scenario 2",
+        "Scenario 2 (S2)",
+        "run-time scenario",
+        "Scenario 4 (S4)",
+        "current scenario",
+        "two envisaged scenarios",
+        "Scenario 1 assembly",
+        "overall scenario",
+        "on ground scenarios",
+        "mission scenario",
+        "scenarios 1 and 2",
+        "future space mission scenarios",
+        "missions scenario"
+      ],
+      "type": null,
+      "total_mentions": 122,
+      "variants_count": 41,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "reconfiguration scenario",
+      "full_name": "reconfiguration scenario",
+      "aliases": [
+        "re-configuration scenarios",
+        "assembly or reconfiguration sequence",
+        "assembly/reconfiguration",
+        "assembly/ reconfiguration plan",
+        "reconfiguration scenarios",
+        "servicing or local reconfiguration scenario"
+      ],
+      "type": null,
+      "total_mentions": 14,
+      "variants_count": 7,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "On-Orbit Rendez-vous",
+      "full_name": "On-Orbit Rendez-vous",
+      "aliases": [
+        "orbital scenario",
+        "in-orbit simulation",
+        "on-orbit rendez-vous",
+        "orbital scenarios",
+        "orbital mission",
+        "On-Orbit servicing",
+        "On-orbit reconfiguration",
+        "on-orbit assembly and servicing operation"
+      ],
+      "type": null,
+      "total_mentions": 12,
+      "variants_count": 9,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "assembly process",
+      "full_name": "assembly process",
+      "aliases": [
+        "assembly operations",
+        "assembly sequence",
+        "assembly constraints"
+      ],
+      "type": null,
+      "total_mentions": 5,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "initial spacecraft configuration",
+      "full_name": "initial spacecraft configuration",
+      "aliases": [
+        "Validate spacecraft design step 1",
+        "Validate spacecraft design step 2",
+        "final target spacecraft configuration"
+      ],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "nominal operations",
+      "full_name": "nominal operations",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "CLT",
+      "full_name": "CLT",
+      "aliases": [
+        "CLT/SVC reconfiguration",
+        "CLT nominal operations"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Safe Mode",
+      "full_name": "Safe Mode",
+      "aliases": [
+        "Servicing Mode",
+        "Safe mode"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Surface Anomaly Detection ofWalking Manipulator",
+      "full_name": "Surface Anomaly Detection ofWalking Manipulator",
+      "aliases": [
+        "Surface Anomaly Detection ofSpacecraft Modules",
+        "Selective ZoomingSurface Anomaly Detection ofInterfaces"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Enhanced payload",
+      "full_name": "Enhanced payload",
+      "aliases": [
+        "Scenario 2 payload update"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Detection andreplacement ofdamaged SM",
+      "full_name": "Detection andreplacement ofdamaged SM",
+      "aliases": [
+        "Detection and replacement of a damaged SM",
+        "Re-routing of power/data bus through the SM"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Mission analysis RD2",
+      "full_name": "Mission analysis RD2",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "initial case",
+      "full_name": "initial case",
+      "aliases": [
+        "cold-start case"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SVC",
+      "full_name": "SVC",
+      "aliases": [
+        "SVC visual validation"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "spatial mission",
+      "full_name": "spatial mission",
+      "aliases": [
+        "demonstrative mission concept"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "assembly of theCLT with new SMfrom the servicer",
+      "full_name": "assembly of theCLT with new SMfrom the servicer",
+      "aliases": [
+        "Assembly of the CLT with new SM from the servicer"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Initial network discovery",
+      "full_name": "Initial network discovery",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "E4 autonomy level",
+      "full_name": "E4 autonomy level",
+      "aliases": [
+        "E3 autonomy level"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "1",
+      "full_name": "1",
+      "aliases": [
+        "2"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Thermal transfer between SM",
+      "full_name": "Thermal transfer between SM",
+      "aliases": [
+        "Scenario 3 thermal transfer"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Demonstration ScenarioOpR_A602",
+      "full_name": "Demonstration ScenarioOpR_A602",
+      "aliases": [
+        "Demonstration ScenarioDesR_S404"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Space",
+      "full_name": "Space",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Ground (demonstrator)",
+      "full_name": "Ground (demonstrator)",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Update of routing tables on addition/removal of modules",
+      "full_name": "Update of routing tables on addition/removal of modules",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "real missionscenarios",
+      "full_name": "real missionscenarios",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "full functionality",
+      "full_name": "full functionality",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Routine 1",
+      "full_name": "Routine 1",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PRO-ACT",
+      "full_name": "PRO-ACT",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Martian operation",
+      "full_name": "Martian operation",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "SM",
+      "full_name": "SM",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "S100",
+      "full_name": "S100",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PULSAR space mission",
+      "full_name": "PULSAR space mission",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "EROSS space mission",
+      "full_name": "EROSS space mission",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Scenario Simulation Models",
+      "full_name": "Scenario Simulation Models",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "OG9",
+      "full_name": "OG9",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    }
+  ],
+  "test_cases": [
+    {
+      "canonical_name": "CT-A-5",
+      "full_name": "CT-A-5",
+      "aliases": [
+        "CT-D-5",
+        "CT-F-4",
+        "CT-I-2",
+        "CT-I-3",
+        "CT-A-8",
+        "CT-B-5",
+        "CT-C-3",
+        "CT-D-1",
+        "CT-D-2",
+        "CT-D-3",
+        "CT-D-4",
+        "CT-D-6",
+        "CT-D-7",
+        "CT-E-1",
+        "CT-E-2",
+        "CT-F-1",
+        "CT-F-2",
+        "CT-F-3",
+        "CT-G-1",
+        "CT-H-1",
+        "CT-I-1",
+        "CT-A-1",
+        "CT-A-2",
+        "CT-A-3",
+        "CT-A-4",
+        "CT-A-6",
+        "CT-A-7",
+        "CT-A-9",
+        "CT-A-10",
+        "CT-B-1",
+        "CT-B-2",
+        "CT-B-3",
+        "CT-B-6",
+        "CT-B-7",
+        "CT-B-8",
+        "CT-C-1",
+        "CT-C-2"
+      ],
+      "type": null,
+      "total_mentions": 67,
+      "variants_count": 38,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "R3.1",
+      "full_name": "R3.1",
+      "aliases": [
+        "R5.1",
+        "R10.1",
+        "R4.1",
+        "R8.1",
+        "R9.1",
+        "R1.1",
+        "R1.2",
+        "R1.3",
+        "R1.4-R4.1",
+        "R1.5-R1.6",
+        "R5.2",
+        "R5.3",
+        "R5.4",
+        "R8.2",
+        "R1.1-1.2",
+        "R2.1",
+        "R6.1",
+        "R5.2-R5.3",
+        "R11.1",
+        "RD10",
+        "RD5",
+        "RD1"
+      ],
+      "type": null,
+      "total_mentions": 33,
+      "variants_count": 23,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "TC_HKA",
+      "full_name": "TC_HKA",
+      "aliases": [
+        "TC_HK3",
+        "TC_HK4",
+        "TM_HK1",
+        "TC_HK2",
+        "TC_HK5",
+        "TC_GOT",
+        "TC_J1",
+        "TC_J2",
+        "TC_J3",
+        "TC_J4",
+        "TC_J5",
+        "TM_HK2"
+      ],
+      "type": null,
+      "total_mentions": 19,
+      "variants_count": 13,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "IT-1",
+      "full_name": "IT-1",
+      "aliases": [
+        "IT3",
+        "IT4",
+        "T5",
+        "IT6",
+        "IT1",
+        "IT2"
+      ],
+      "type": null,
+      "total_mentions": 17,
+      "variants_count": 7,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "TC_ATM",
+      "full_name": "TC_ATM",
+      "aliases": [
+        "TC_START",
+        "TC_RLY",
+        "TC_STOP",
+        "TC_EMERGENCY",
+        "TC_MODE",
+        "TC_BUS",
+        "TC_STO",
+        "TC_Load"
+      ],
+      "type": null,
+      "total_mentions": 14,
+      "variants_count": 9,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "TC_VALVE_3",
+      "full_name": "TC_VALVE_3",
+      "aliases": [
+        "TC_VALVE_4",
+        "TC_PUMP_THS",
+        "TC_VALVE_1",
+        "TC_VALVE_2",
+        "TC_VALVE_5",
+        "TC_VALVE_6",
+        "TC_VALVE_7",
+        "TC_PUMP_PWS",
+        "TC_P2V"
+      ],
+      "type": null,
+      "total_mentions": 13,
+      "variants_count": 10,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "ST6-4",
+      "full_name": "ST6-4",
+      "aliases": [
+        "ST6-5",
+        "ST3-4",
+        "ST4-4",
+        "ST3-9",
+        "ST6-7",
+        "ST6-8",
+        "ST6-12",
+        "ST6-13"
+      ],
+      "type": null,
+      "total_mentions": 13,
+      "variants_count": 9,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "TM_UNK",
+      "full_name": "TM_UNK",
+      "aliases": [
+        "TM_ACK",
+        "TM_NAK"
+      ],
+      "type": null,
+      "total_mentions": 12,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TC \"Approach Walking Manipulator (trajectory)\"",
+      "full_name": "TC \"Approach Walking Manipulator (trajectory)\"",
+      "aliases": [
+        "TC \"Move Walking Manipulator Cartesian (trajectory)\"",
+        "TC \"MoveWalking Manipulator Joint (trajectory)",
+        "Move Walking Manipulator Cartesian (trajectory)",
+        "MoveWalking Manipulator Joint (trajectory)",
+        "TC \"MoveWalking Manipulator Joint (trajectory)\""
+      ],
+      "type": null,
+      "total_mentions": 11,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "TC \"SI state update (SI-B, connected)\"",
+      "full_name": "TC \"SI state update (SI-B, connected)\"",
+      "aliases": [
+        "TC \"SI state update (target SI, latched)\"",
+        "TC \"SI state update (SI-A, disconnected)\"",
+        "TC \"SI state update (initial SI, disconnected)\"",
+        "TC \"SI state update (SM target SI, latched)\"",
+        "TC \"SI state update (SM final SI, connect)\"",
+        "TC \"SI state update (SI-B, disconnect)\""
+      ],
+      "type": null,
+      "total_mentions": 11,
+      "variants_count": 7,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "TC",
+      "full_name": "TC",
+      "aliases": [
+        "TC_FAN",
+        "CAN TC"
+      ],
+      "type": null,
+      "total_mentions": 10,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Component Test",
+      "full_name": "Component Test",
+      "aliases": [
+        "Component Validation Test"
+      ],
+      "type": null,
+      "total_mentions": 10,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+     {
+      "canonical_name": "TC[210,X]",
+      "full_name": "TC[210,X]",
+      "aliases": [
+        "PUS TC[2X0,Y]",
+        "TC[210,X] TC"
+      ],
+      "type": null,
+      "total_mentions": 8,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "OG1-5 Review RD1",
+      "full_name": "OG1-5 Review RD1",
+      "aliases": [
+        "OG1-5 Review RD1OpR_A602",
+        "TestingCOVERSOG1-5",
+        "OG1-5",
+        "COVERSTestingOG1-5"
+      ],
+      "type": null,
+      "total_mentions": 7,
+      "variants_count": 5,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TC_12V",
+      "full_name": "TC_12V",
+      "aliases": [
+        "TC_CHARGER",
+        "TC_24V_A",
+        "TC_12V_B"
+      ],
+      "type": null,
+      "total_mentions": 5,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Configure R-ICU (SM2)",
+      "full_name": "Configure R-ICU (SM2)",
+      "aliases": [
+        "TC \"Configure Data Routing (#R-ICU, route table)\"",
+        "TC \"Configure Data Routing (#R-ICU\"",
+        "Configure Data Routing (SM1 R-ICU, route table)"
+      ],
+      "type": null,
+      "total_mentions": 5,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "RMAP TM",
+      "full_name": "RMAP TM",
+      "aliases": [
+        "RMAP TC"
+      ],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TC \"Power Switch (#cPDU, cPDU channel, ON)\"",
+      "full_name": "TC \"Power Switch (#cPDU, cPDU channel, ON)\"",
+      "aliases": [
+        "Power Switch (#cPDU, cPDU channel, OFF)"
+      ],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "VerR_G102",
+      "full_name": "VerR_G102",
+      "aliases": [
+        "VerR_G105",
+        "VerR_G108"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "FuncR_S103Operational Concept RD3",
+      "full_name": "FuncR_S103Operational Concept RD3",
+      "aliases": [
+        "TestingCOVERSMOSAR Operational ConceptPerfR_A202",
+        "COVERSTestingOperational Concept RD3"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ESCC22900",
+      "full_name": "ESCC22900",
+      "aliases": [
+        "ESCC25100"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TC_LVD",
+      "full_name": "TC_LVD",
+      "aliases": [
+        "TC verification"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ST2 - Design and Simulation Tool",
+      "full_name": "ST2 - Design and Simulation Tool",
+      "aliases": [
+        "ST3 – Planner and Simulation Tool"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "IT1 – WM Re-localization",
+      "full_name": "IT1 – WM Re-localization",
+      "aliases": [
+        "IT2 – SM Re-localization"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "IT4 – Power Re-Routing",
+      "full_name": "IT4 – Power Re-Routing",
+      "aliases": [
+        "IT3 – Data Re-Routing"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "DFPC instance 2.2",
+      "full_name": "DFPC instance 2.2",
+      "aliases": [
+        "integration test for DFPC instance 1.2"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TC_ROCKER",
+      "full_name": "TC_ROCKER",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "FB11xx",
+      "full_name": "FB11xx",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ET1100",
+      "full_name": "ET1100",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "test procedures",
+      "full_name": "test procedures",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ST1 - Monitoring and Control Centre",
+      "full_name": "ST1 - Monitoring and Control Centre",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "routing table set TC",
+      "full_name": "routing table set TC",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "RD5 MOSAR D2.3 Test Demonstration Specification",
+      "full_name": "RD5 MOSAR D2.3 Test Demonstration Specification",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TRR",
+      "full_name": "TRR",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Housekeeping",
+      "full_name": "Housekeeping",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Event reporting",
+      "full_name": "Event reporting",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Function management",
+      "full_name": "Function management",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TBD",
+      "full_name": "TBD",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Cxxx",
+      "full_name": "Cxxx",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    }
+  ],
+  "subsystems": [
+    {
+      "canonical_name": "Power",
+      "full_name": "Power",
+      "aliases": [
+        "power",
+        "power system",
+        "Power Subsystem",
+        "power interface",
+        "power management",
+        "power supply",
+        "power paths",
+        "power sources",
+        "MainPower Supply",
+        "power architecture",
+        "Power System",
+        "power transfer",
+        "power sub-system"
+      ],
+      "type": null,
+      "total_mentions": 248,
+      "variants_count": 14,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Thermal",
+      "full_name": "Thermal",
+      "aliases": [
+        "thermal subsystem",
+        "Thermal Subsystem",
+        "Thermal subsystem",
+        "thermal management",
+        "ActiveThermal",
+        "thermal sub-system",
+        "thermal interface",
+        "thermal balance",
+        "Thermal Subsystem (THS)",
+        "thermal transfer",
+        "active fluid thermal",
+        "active fluid thermal transfer",
+        "ThermalPassive",
+        "ThermalActive",
+        "Active Thermal",
+        "Passive Thermal",
+        "thermal module",
+        "thermal module sub-system",
+        "Thermal System",
+        "thermal fluid transfer",
+        "Thermal Control",
+        "thermal module subsystem",
+        "Heat management",
+        "thermal considerations",
+        "heat management system"
+      ],
+      "type": null,
+      "total_mentions": 115,
+      "variants_count": 26,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "data",
+      "full_name": "data",
+      "aliases": [
+        "Data"
+      ],
+      "type": null,
+      "total_mentions": 55,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "thermal",
+      "full_name": "thermal",
+      "aliases": [
+        "Temperature"
+      ],
+      "type": null,
+      "total_mentions": 35,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Battery",
+      "full_name": "Battery",
+      "aliases": [
+        "Battery Subsystem",
+        "batteries",
+        "Battery Assembly",
+        "Battery subsystem",
+        "battery subsystem",
+        "battery system",
+        "battery"
+      ],
+      "type": null,
+      "total_mentions": 24,
+      "variants_count": 8,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Visual Processing",
+      "full_name": "Visual Processing",
+      "aliases": [
+        "vision processing subsystem",
+        "vision subsystem",
+        "Visual Processing System",
+        "vision system",
+        "Vision Subsystem",
+        "visual processing system",
+        "visual 3D processing system",
+        "Visual Subsystem",
+        "visual system",
+        "visual subsystem"
+      ],
+      "type": null,
+      "total_mentions": 22,
+      "variants_count": 11,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "mechanical",
+      "full_name": "mechanical",
+      "aliases": [
+        "Mechanical",
+        "Mechanical guidance"
+      ],
+      "type": null,
+      "total_mentions": 22,
+      "variants_count": 3,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "sub-system",
+      "full_name": "sub-system",
+      "aliases": [
+        "sub-systems",
+        "subsystems",
+        "satellite subsystem",
+        "sub-subsystems",
+        "propulsion system",
+        "high level subsystems",
+        "Propulsion subsystem",
+        "propulsion subsystem"
+      ],
+      "type": null,
+      "total_mentions": 14,
+      "variants_count": 9,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "SM configuration",
+      "full_name": "SM configuration",
+      "aliases": [
+        "SM subsystems",
+        "SM data routing",
+        "SM data transmission",
+        "SM redundancy",
+        "SMs",
+        "SM data routing configuration",
+        "SM Power routing",
+        "SM switch ON/OFF",
+        "SMs payloads",
+        "SM Localization",
+        "SMservice",
+        "SM components"
+      ],
+      "type": null,
+      "total_mentions": 14,
+      "variants_count": 13,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "SM",
+      "full_name": "SM",
+      "aliases": [
+        "WM"
+      ],
+      "type": null,
+      "total_mentions": 13,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Visual",
+      "full_name": "Visual",
+      "aliases": [
+        "visual"
+      ],
+      "type": null,
+      "total_mentions": 12,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "electrical",
+      "full_name": "electrical",
+      "aliases": [
+        "Electrical power supply",
+        "electrical energy buffer",
+        "electrical energy consumer",
+        "electrical power source",
+        "Electrical",
+        "electrical power"
+      ],
+      "type": null,
+      "total_mentions": 12,
+      "variants_count": 7,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "modular spacecraft",
+      "full_name": "modular spacecraft",
+      "aliases": [
+        "spacecraft bus",
+        "spacecraft module relocation",
+        "modular satellites applications",
+        "Spacecraft Modules",
+        "modular spacecraft missions",
+        "space modular spacecraft"
+      ],
+      "type": null,
+      "total_mentions": 10,
+      "variants_count": 7,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "camera",
+      "full_name": "camera",
+      "aliases": [
+        "Software",
+        "Hardware",
+        "Camera"
+      ],
+      "type": null,
+      "total_mentions": 9,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Data Management Subsystem",
+      "full_name": "Data Management Subsystem",
+      "aliases": [
+        "Data handling system",
+        "Data Interface Support",
+        "Data Control",
+        "data handling system"
+      ],
+      "type": null,
+      "total_mentions": 9,
+      "variants_count": 5,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "mechanical re-configuration",
+      "full_name": "mechanical re-configuration",
+      "aliases": [
+        "Hardware Reconfiguration",
+        "Mechanical Reconfiguration",
+        "Data Reconfiguration",
+        "Power Reconfiguration",
+        "Software Reconfiguration",
+        "Reconfiguration Monitoring"
+      ],
+      "type": null,
+      "total_mentions": 8,
+      "variants_count": 7,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "data routing",
+      "full_name": "data routing",
+      "aliases": [
+        "data routingand processing",
+        "data transmission",
+        "data transfer rate",
+        "data link",
+        "data routing components"
+      ],
+      "type": null,
+      "total_mentions": 8,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Passive",
+      "full_name": "Passive",
+      "aliases": [
+        "Active"
+      ],
+      "type": null,
+      "total_mentions": 7,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Sub-systems TM/TC data rate",
+      "full_name": "Sub-systems TM/TC data rate",
+      "aliases": [
+        "Sub-systems services data rate",
+        "SM data interface rate for TM/TC",
+        "SM data interface rate for service data",
+        "WMdata interface rate for service data",
+        "WMdata interface rate for TM/TC"
+      ],
+      "type": null,
+      "total_mentions": 7,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "OBC",
+      "full_name": "OBC",
+      "aliases": [
+        "OBC-S",
+        "SVC OBC"
+      ],
+      "type": null,
+      "total_mentions": 6,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "payload",
+      "full_name": "payload",
+      "aliases": [
+        "payloads",
+        "Payload Management"
+      ],
+      "type": null,
+      "total_mentions": 6,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Monitoring and Control Centre",
+      "full_name": "Monitoring and Control Centre",
+      "aliases": [
+        "MCC",
+        "Monitoring & Control Center (MCC)"
+      ],
+      "type": null,
+      "total_mentions": 6,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SVC",
+      "full_name": "SVC",
+      "aliases": [
+        "CLT",
+        "CLT/SVC"
+      ],
+      "type": null,
+      "total_mentions": 5,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Optical Payload",
+      "full_name": "Optical Payload",
+      "aliases": [
+        "optical payloads",
+        "Optical",
+        "Optical payload"
+      ],
+      "type": null,
+      "total_mentions": 5,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Walking Manipulator",
+      "full_name": "Walking Manipulator",
+      "aliases": [
+        "robot manipulators",
+        "manipulator",
+        "Manipulator Dynamics Simulation"
+      ],
+      "type": null,
+      "total_mentions": 5,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Dummy/Visual",
+      "full_name": "Dummy/Visual",
+      "aliases": [
+        "Dummy"
+      ],
+      "type": null,
+      "total_mentions": 5,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "MOSAR",
+      "full_name": "MOSAR",
+      "aliases": [
+        "MOSAR setup",
+        "MOSAR system"
+      ],
+      "type": null,
+      "total_mentions": 5,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Control",
+      "full_name": "Control",
+      "aliases": [
+        "management",
+        "tracking",
+        "control"
+      ],
+      "type": null,
+      "total_mentions": 5,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Space Segment",
+      "full_name": "Space Segment",
+      "aliases": [
+        "Ground Segment"
+      ],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Temperature NTC 4",
+      "full_name": "Temperature NTC 4",
+      "aliases": [
+        "Temperature NTC 5",
+        "Temperature NTC 6",
+        "Temperature NTC 7"
+      ],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "network",
+      "full_name": "network",
+      "aliases": [
+        "Data Network",
+        "electric network"
+      ],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "computational power",
+      "full_name": "computational power",
+      "aliases": [
+        "computationalpower"
+      ],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Real Time Unix systems",
+      "full_name": "Real Time Unix systems",
+      "aliases": [
+        "real-time operating system",
+        "safety-critical real-time operating systems",
+        "Real Time Operating System"
+      ],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 4,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "SI",
+      "full_name": "SI",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "power generator",
+      "full_name": "power generator",
+      "aliases": [
+        "generators"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Simulator",
+      "full_name": "Simulator",
+      "aliases": [
+        "Functional Engineering Simulator"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "functional layer",
+      "full_name": "functional layer",
+      "aliases": [
+        "Functional Layer"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "THS",
+      "full_name": "THS",
+      "aliases": [
+        "SM4-THS"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Robotics",
+      "full_name": "Robotics",
+      "aliases": [
+        "Mechatronics",
+        "robotic building blocks"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "platform",
+      "full_name": "platform",
+      "aliases": [
+        "execution platform"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Surface Anomaly Detection",
+      "full_name": "Surface Anomaly Detection",
+      "aliases": [
+        "Surface Anomaly Detection of Spacecraft Modules",
+        "Surface Anomaly Detection of Walking Manipulator"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "System redundancy",
+      "full_name": "System redundancy",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 1,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "memory management",
+      "full_name": "memory management",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Kernel services",
+      "full_name": "Kernel services",
+      "aliases": [
+        "Hypervisor services",
+        "System services"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "thermal payload",
+      "full_name": "thermal payload",
+      "aliases": [
+        "thermal payload subsystem",
+        "Thermal Payload"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Interface requirements",
+      "full_name": "Interface requirements",
+      "aliases": [
+        "Functional requirements",
+        "Performance requirements"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Attitude control subsystem",
+      "full_name": "Attitude control subsystem",
+      "aliases": [
+        "attitude control subsystem"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "data architecture",
+      "full_name": "data architecture",
+      "aliases": [
+        "Generic Data and Power Architecture"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Environment",
+      "full_name": "Environment",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "FES",
+      "full_name": "FES",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PWS",
+      "full_name": "PWS",
+      "aliases": [
+        "SM2-PWS"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "support structure",
+      "full_name": "support structure",
+      "aliases": [
+        "ground support tools"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "hydraulic circuit",
+      "full_name": "hydraulic circuit",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "E4 autonomy level",
+      "full_name": "E4 autonomy level",
+      "aliases": [
+        "E3 autonomy level"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TM/TC",
+      "full_name": "TM/TC",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Joint position control",
+      "full_name": "Joint position control",
+      "aliases": [
+        "Cartesian position control"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "POSIX scheduling",
+      "full_name": "POSIX scheduling",
+      "aliases": [
+        "preemptive fixed priority scheduling"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "modules",
+      "full_name": "modules",
+      "aliases": [
+        "module components"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "structure",
+      "full_name": "structure",
+      "aliases": [
+        "system"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "functional module",
+      "full_name": "functional module",
+      "aliases": [
+        "Functional module monitoring"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "software architectural models",
+      "full_name": "software architectural models",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "M&C Software",
+      "full_name": "M&C Software",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "on-board system",
+      "full_name": "on-board system",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "mass budget",
+      "full_name": "mass budget",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Autonomy agent management",
+      "full_name": "Autonomy agent management",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "controlled system",
+      "full_name": "controlled system",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "operational concept",
+      "full_name": "operational concept",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "resources re-allocation",
+      "full_name": "resources re-allocation",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "disparity computation",
+      "full_name": "disparity computation",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "algorithm",
+      "full_name": "algorithm",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "data resources",
+      "full_name": "data resources",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "systemparameters",
+      "full_name": "systemparameters",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "adaptive partition scheduling",
+      "full_name": "adaptive partition scheduling",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Spatial and Temporal Partitioning",
+      "full_name": "Spatial and Temporal Partitioning",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "structural panels",
+      "full_name": "structural panels",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "detection",
+      "full_name": "detection",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "3D reconstruction",
+      "full_name": "3D reconstruction",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "RTOS",
+      "full_name": "RTOS",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "task management",
+      "full_name": "task management",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "physical demonstrator system",
+      "full_name": "physical demonstrator system",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "GEO telecommunication satellite",
+      "full_name": "GEO telecommunication satellite",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "telecommunication capacity",
+      "full_name": "telecommunication capacity",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Electrical Interface Telemetry",
+      "full_name": "Electrical Interface Telemetry",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "operations",
+      "full_name": "operations",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "thermal relay",
+      "full_name": "thermal relay",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ADCS",
+      "full_name": "ADCS",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    }
+  ],
+  "interfaces": [
+    {
+      "canonical_name": "SpW",
+      "full_name": "SpW",
+      "aliases": [
+        "SpW PnP",
+        "USB/SpW",
+        "spW",
+        "SpW-PnP",
+        "SpWRouter",
+        "SpW Brick",
+        "USB SpW",
+        "SPW",
+        "SpW/RMAP"
+      ],
+      "type": null,
+      "total_mentions": 141,
+      "variants_count": 10,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "SpaceWire",
+      "full_name": "SpaceWire",
+      "aliases": [
+        "SpaceWire PnP Support"
+      ],
+      "type": null,
+      "total_mentions": 106,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "CAN",
+      "full_name": "CAN",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 79,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "RMAP",
+      "full_name": "RMAP",
+      "aliases": [
+        "RMAP TM",
+        "RMAP TC",
+        "RMAP TMTC",
+        "RMAP interface"
+      ],
+      "type": null,
+      "total_mentions": 75,
+      "variants_count": 5,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "TM/TC",
+      "full_name": "TM/TC",
+      "aliases": [
+        "CAN TM",
+        "TMTC",
+        "CAN TMTC",
+        "TM",
+        "WM TM/TC",
+        "TC"
+      ],
+      "type": null,
+      "total_mentions": 33,
+      "variants_count": 7,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Standard Interfaces",
+      "full_name": "Standard Interfaces",
+      "aliases": [
+        "data interface",
+        "Standard Interface",
+        "standard interfaces",
+        "CAN interface",
+        "standard interface",
+        "connection interfaces"
+      ],
+      "type": null,
+      "total_mentions": 31,
+      "variants_count": 7,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "Ethernet",
+      "full_name": "Ethernet",
+      "aliases": [
+        "Setup Ethernet"
+      ],
+      "type": null,
+      "total_mentions": 27,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "power interface",
+      "full_name": "power interface",
+      "aliases": [
+        "electrical interface",
+        "data and power transfer interface",
+        "data and power interface",
+        "power transfer interface",
+        "data/power interface",
+        "power/data interface",
+        "Electrical Interface",
+        "Electrical Interface Switch",
+        "Redundant Data/Power/Control Interface"
+      ],
+      "type": null,
+      "total_mentions": 15,
+      "variants_count": 10,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "TTC",
+      "full_name": "TTC",
+      "aliases": [
+        "TTC service"
+      ],
+      "type": null,
+      "total_mentions": 14,
+      "variants_count": 2,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "USB",
+      "full_name": "USB",
+      "aliases": [
+        "UART",
+        "usb adapters",
+        "USB UART"
+      ],
+      "type": null,
+      "total_mentions": 13,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "HOTDOCK",
+      "full_name": "HOTDOCK",
+      "aliases": [
+        "HOTDOCK interfaces",
+        "HOTDOCK standard interfaces",
+        "B-HOTDOCK Standard Interface"
+      ],
+      "type": null,
+      "total_mentions": 13,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "thermal interface",
+      "full_name": "thermal interface",
+      "aliases": [
+        "thermal IF",
+        "Thermal IF",
+        "fluidic thermal interface",
+        "thermal IFs",
+        "Active Thermal",
+        "Thermal Interface",
+        "Interface to Module Thermal System"
+      ],
+      "type": null,
+      "total_mentions": 12,
+      "variants_count": 8,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "SI",
+      "full_name": "SI",
+      "aliases": [
+        "SI-B",
+        "SI-A",
+        "WM SI-B"
+      ],
+      "type": null,
+      "total_mentions": 12,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PUS",
+      "full_name": "PUS",
+      "aliases": [
+        "PUS Service 200",
+        "PUS 200 TM",
+        "PUS service 3",
+        "PUS service 200",
+        "PUS Services"
+      ],
+      "type": null,
+      "total_mentions": 11,
+      "variants_count": 6,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "EtherCAT",
+      "full_name": "EtherCAT",
+      "aliases": [
+        "EtherCAT-G",
+        "EtherCAT G"
+      ],
+      "type": null,
+      "total_mentions": 10,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "CLT",
+      "full_name": "CLT",
+      "aliases": [
+        "CLT bus",
+        "CLTSpW",
+        "SVC to CLT data interface",
+        "SVC to CLT power interface"
+      ],
+      "type": null,
+      "total_mentions": 9,
+      "variants_count": 5,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PolyORB-HI",
+      "full_name": "PolyORB-HI",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 6,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "UDP",
+      "full_name": "UDP",
+      "aliases": [
+        "TCP/IP",
+        "User Datagram Protocol",
+        "TCP/IPor UDP"
+      ],
+      "type": null,
+      "total_mentions": 6,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "WM interface switch",
+      "full_name": "WM interface switch",
+      "aliases": [
+        "WM mechanical interface to SI",
+        "WM power",
+        "WM Interface switch"
+      ],
+      "type": null,
+      "total_mentions": 6,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "mechanical interface",
+      "full_name": "mechanical interface",
+      "aliases": [
+        "Mechanical"
+      ],
+      "type": null,
+      "total_mentions": 5,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Simulator Input Interfaces",
+      "full_name": "Simulator Input Interfaces",
+      "aliases": [
+        "Simulator Output Interfaces",
+        "Simulator Communication Interface",
+        "input and output signal interface"
+      ],
+      "type": null,
+      "total_mentions": 5,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "48V bus",
+      "full_name": "48V bus",
+      "aliases": [
+        "48V interface"
+      ],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "zeroMQ",
+      "full_name": "zeroMQ",
+      "aliases": [
+        "ZeroMQ"
+      ],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "data connection",
+      "full_name": "data connection",
+      "aliases": [
+        "data buses",
+        "data network"
+      ],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 3,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "SSH",
+      "full_name": "SSH",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "DFN interfaces",
+      "full_name": "DFN interfaces",
+      "aliases": [
+        "DFN Common interfaces",
+        "DFPC Common interfaces",
+        "DFPC interfaces"
+      ],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Service 3",
+      "full_name": "Service 3",
+      "aliases": [
+        "Service 23",
+        "Service 200",
+        "Service 210"
+      ],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 4,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "OBC-S",
+      "full_name": "OBC-S",
+      "aliases": [
+        "OBC-S TTC"
+      ],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "MCC",
+      "full_name": "MCC",
+      "aliases": [
+        "MCC to SVC data link",
+        "MCC to SVC debugging link"
+      ],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "One Wire",
+      "full_name": "One Wire",
+      "aliases": [
+        "Two Wires"
+      ],
+      "type": null,
+      "total_mentions": 4,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "CANbus",
+      "full_name": "CANbus",
+      "aliases": [
+        "Universal Serial Bus",
+        "CAN-bus"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "main power bus",
+      "full_name": "main power bus",
+      "aliases": [
+        "local bus"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ARINC",
+      "full_name": "ARINC",
+      "aliases": [
+        "ARINC 653 application executive interface (APEX)",
+        "ARINC-653"
+      ],
+      "type": null,
+      "total_mentions": 3,
+      "variants_count": 3,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SI connection",
+      "full_name": "SI connection",
+      "aliases": [
+        "SI connector plate"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "TASTE",
+      "full_name": "TASTE",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "PUS Ground Control Interface",
+      "full_name": "PUS Ground Control Interface",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Remote Memory Access Protocol",
+      "full_name": "Remote Memory Access Protocol",
+      "aliases": [
+        "Space wire remote memory access protocol"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "WAN",
+      "full_name": "WAN",
+      "aliases": [
+        "Wide Area Network"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "GPI",
+      "full_name": "GPI",
+      "aliases": [
+        "GPO"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Interface AnomalyDetection",
+      "full_name": "Interface AnomalyDetection",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ERGO",
+      "full_name": "ERGO",
+      "aliases": [
+        "ESROCOS"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "WM local control network",
+      "full_name": "WM local control network",
+      "aliases": [
+        "WM local CAN network"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Inter-partition Communications",
+      "full_name": "Inter-partition Communications",
+      "aliases": [
+        "Unix Inter-Process Communications"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Active",
+      "full_name": "Active",
+      "aliases": [
+        "Passive"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SVC",
+      "full_name": "SVC",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "image-transfer interface",
+      "full_name": "image-transfer interface",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SM datainterface",
+      "full_name": "SM datainterface",
+      "aliases": [
+        "SM mechanical interface"
+      ],
+      "type": null,
+      "total_mentions": 2,
+      "variants_count": 2,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "configuration_status",
+      "full_name": "configuration_status",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "AADL",
+      "full_name": "AADL",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "LVDS",
+      "full_name": "LVDS",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Packet Utilization Standard",
+      "full_name": "Packet Utilization Standard",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Quality of Service",
+      "full_name": "Quality of Service",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Transmission Control Protocol",
+      "full_name": "Transmission Control Protocol",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "central interface plate",
+      "full_name": "central interface plate",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "POGO pin connectors",
+      "full_name": "POGO pin connectors",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "timecode",
+      "full_name": "timecode",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "OpenAMP",
+      "full_name": "OpenAMP",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ReconfigurationAnomaly Detection",
+      "full_name": "ReconfigurationAnomaly Detection",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "VISCA protocol",
+      "full_name": "VISCA protocol",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "RS422 interface",
+      "full_name": "RS422 interface",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Autonomy Agent",
+      "full_name": "Autonomy Agent",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Component Management",
+      "full_name": "Component Management",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "MOSAR",
+      "full_name": "MOSAR",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "SM R-ICU to SI TM/TC",
+      "full_name": "SM R-ICU to SI TM/TC",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "fluid interface",
+      "full_name": "fluid interface",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "URDF",
+      "full_name": "URDF",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Dummy/Visual",
+      "full_name": "Dummy/Visual",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "AXI interconnect",
+      "full_name": "AXI interconnect",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "CAN messages",
+      "full_name": "CAN messages",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "RTEMS",
+      "full_name": "RTEMS",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "AIR",
+      "full_name": "AIR",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "Spacecraft Module",
+      "full_name": "Spacecraft Module",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": true
+    },
+    {
+      "canonical_name": "DDS",
+      "full_name": "DDS",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    },
+    {
+      "canonical_name": "ASN.1",
+      "full_name": "ASN.1",
+      "aliases": [],
+      "type": null,
+      "total_mentions": 1,
+      "variants_count": 1,
+      "human_review_needed": false
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+[OK] Connected to Neo4j at bolt://44.195.40.3:7687
+========================================================================================================================
+  MOSAR Documents - Detailed Hierarchical Structure
+========================================================================================================================
+
+========================================================================================================================
+  [DDD] Detailed Design Document
+========================================================================================================================
+
+[Summary] 204 sections, 426 chunks, 6 hierarchy levels
+
+戍式 1: Introduction (5 subsections)
+  戍式 1.1: Purpose and Scope (1 chunks)
+  戍式 1.2: Document Structure (1 chunks)
+  戍式 1.3: Applicable Documents (1 chunks)
+  戍式 1.4: Reference Documents (2 chunks)
+  戍式 1.5: Acronyms (7 chunks)
+戍式 2: MOSAR System Overview (4 subsections)
+  戍式 2.1: MOSAR Mission Overview (3 chunks)
+  戍式 2.2: From Mission Overview to MOSAR Demonstration (1 chunks)
+  戍式 2.3: Demonstrator Components and Architecture (3 subsections, 1 chunks)
+    戍式 2.3.1: Ground Segment (4 chunks)
+    戍式 2.3.2: Space Segment (3 chunks)
+    戍式 2.3.3: Generic Data and Power Architecture (8 subsections, 1 chunks)
+  戍式 2.4: MOSAR Product Tree (1 chunks)
+戍式 3: Spacecraft Reconfiguration (2 subsections)
+  戍式 3.1: Hardware Reconfiguration (3 subsections)
+    戍式 3.1.1: Mechanical Reconfiguration (2 chunks)
+    戍式 3.1.2: Data Reconfiguration (5 subsections, 4 chunks)
+    戍式 3.1.3: Power Reconfiguration (2 chunks)
+  戍式 3.2: Software Reconfiguration (6 subsections)
+    戍式 3.2.1: General software reconfiguration strategy (2 chunks)
+    戍式 3.2.2: Introducing timing analysis of software reconfigur...
+    戍式 3.2.3: Overview of the schedulability analysis method (1 chunks)
+    戍式 3.2.4: Assessing schedulability with SCM (3 subsections, 1 chunks)
+    戍式 3.2.5: Integration into the TASTE toolchain (1 chunks)
+    戍式 3.2.6: References (1 chunks)
+戍式 4: System Operations (2 subsections)
+  戍式 4.1: Ground Segment Operations (13 chunks)
+  戍式 4.2: Space Segment Operations (7 subsections, 1 chunks)
+    戍式 4.2.1: CLT/SVC Reconfiguration (2 chunks)
+    戍式 4.2.2: CLT Nominal Operations (3 chunks)
+    戍式 4.2.3: Elementary Actions (5 subsections, 1 chunks)
+    戍式 4.2.4: Routines Sequences (1 chunks)
+Traceback (most recent call last):
+  File "C:\Hee\SpaceAI\ReqEng_1114\get_detailed_hierarchy.py", line 104, in <module>
+    print_section_tree(conn, doc_id, level=0, max_depth=2)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Hee\SpaceAI\ReqEng_1114\get_detailed_hierarchy.py", line 66, in print_section_tree
+    print_section_tree(conn, doc_id, section['number'], level + 1, max_depth)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Hee\SpaceAI\ReqEng_1114\get_detailed_hierarchy.py", line 66, in print_section_tree
+    print_section_tree(conn, doc_id, section['number'], level + 1, max_depth)
+    ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Hee\SpaceAI\ReqEng_1114\get_detailed_hierarchy.py", line 62, in print_section_tree
+    print(f"{indent}戍式 {section['number']}: {title}{info_str}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'cp949' codec can't encode character '\u2013' in position 30: illegal multibyte sequence
