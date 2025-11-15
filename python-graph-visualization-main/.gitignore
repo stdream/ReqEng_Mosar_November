@@ -1,0 +1,30 @@
+# Environments
+.env
+*.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.conda.sh
+
+out/*
+
+# local env files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# misc
+.DS_Store
+
+# ide
+*.code-workspace
+
+# intellij
+.idea
+
+.dmypy.json
+python-wrapper/uv.lock

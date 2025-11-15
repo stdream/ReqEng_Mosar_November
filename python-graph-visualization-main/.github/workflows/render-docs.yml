@@ -1,0 +1,44 @@
+name: Render docs
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: ["main"]
+  pull_request:
+    paths:
+      - "python-wrapper/**" # python code
+      - "docs/**" # documentation
+    branches: ["main"]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  ref-docs:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    defaults:
+      run:
+        working-directory: python-wrapper
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install uv and set the Python version
+        uses: astral-sh/setup-uv@v6
+        with:
+          python-version: "3.11"
+          enable-cache: true
+      - run: uv sync --extra dev --extra pandas --extra neo4j --extra gds --extra snowflake --extra docs
+
+      - name: Setup pandoc
+        uses: pandoc/actions/setup@v1
+        with:
+          version: 3.6.2
+
+      - name: Render ref docs
+        run: uv run bash ../scripts/render_docs.sh
